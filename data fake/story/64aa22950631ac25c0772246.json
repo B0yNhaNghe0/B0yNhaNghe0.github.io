@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Thân là phản diện, treo lên đánh nhân vật chính là chuyện rất bình thường mà?",
+            "StoryOtherName": null,
+            "StoryImage": "64aa22950631ac25c0772246.jpg",
+            "StoryDescription": "manhuavn.top - tô vô nhai xuyên không đến thế giới huyền huyễn, trở thành thượng cổ gia tộc tô gia đạo tử. không nghĩ tới sua khi hắn xuyên không, tự mang một hệ thống. vốn cho rằng hệ thống này là kim thủ chỉ, không nghĩ tới lại tại mỗi giờ mỗi khắc nó cắn mình. lúc xuống hạ giới trải nghiệm, lại thật vừa đúng lúc phát hiện mình lại là nhân vật phản diện! đúng lúc này, hệ thống mưa đạn ngoài ý muốn giải tỏa nhắc nhở công năng. chỉ cần chèn ép khí vận chi tử, liền có thể dùng đến đến giá trị nhân vật phản diện xem xét nhắc nhở!",
+            "StoryUpdateTime": "2023-12-13T10:10:00.9381458Z",
+            "StoryUpdateTimeTick": 638244935735226369,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Isekai",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61ec0631b61a30ca325a",
+                    "MongoId": "649d61ec0631b61a30ca325a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-chapter-5",
+            "Keyword": "thân là phản diện, treo lên đánh nhân vật chính là chuyện rất bình thường mà? than la phan dien, treo len danh nhan vat chinh la chuyen rat binh thuong ma? than la phan dien, treo len danh nhan vat chinh la chuyen rat binh thuong ma? than la phan dien, treo len danh nhan vat chinh la chuyen rat binh thuong ma?",
+            "StoryView": 5,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-chapter-3",
+                    "ChapterID": "64b1fb0d0631ac2a78239735",
+                    "datepost": "2023-07-15T08:49:01.04Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-chapter-4",
+                    "ChapterID": "64b1fb110631ac2a78239740",
+                    "datepost": "2023-07-15T08:49:05.494Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-chapter-5",
+                    "ChapterID": "64b1fb140631ac2a7823974a",
+                    "datepost": "2023-07-15T08:49:08.948Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa22950631ac25c0772246",
+            "MongoId": "64aa22950631ac25c0772246"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b1faf40631ac2a782396f8",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

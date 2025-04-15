@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 30,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "chapter 30",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/0_x8232wteh.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/1_x82342mis9sxukgs.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/2_x823adavkia8sn03z.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/3_x823bu7wy8mj0a5dd5w.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/4_x823zbm9moex8061t.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/5_x8231r6ut0gbo1admw.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/6_x823zsht6s98xqee06.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/7_x823os1166dt2f55q5.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/8_x823k71fke3t2f55q5.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5dfce5640631ac12b49402d9/9_x823sqy1asiyhukgs.jpg' alt='Dị Thế Tà Quân chapter 30 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "di-the-ta-quan-chapter-30",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-30.html",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-14T21:30:46.6646236Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b15c160631ac0494346b37",
+            "MongoId": "64b15c160631ac0494346b37"
+        },
+        "nextchap": "64b15c1a0631ac0494346b47",
+        "prevchap": "64b15c120631ac0494346b23",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

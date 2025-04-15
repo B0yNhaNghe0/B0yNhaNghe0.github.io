@@ -1,0 +1,1036 @@
+{
+    "success": true,
+    "data": {
+        "theloai": [
+            {
+                "TenTheLoai": "Chuyển Sinh",
+                "MoTa": null,
+                "ID": "649d6d800631b81a309a9f6e",
+                "Truyen": [
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa34950631ac25c07723e2.jpg",
+                        "StoryName": "Hành Giả",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa34950631ac25c07723e2",
+                        "StoryUpdateTime": "3/27/2024 9:34:52 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "hanh-gia-1",
+                        "StoryView": 16
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa3b390631ac25c077247a.jpg",
+                        "StoryName": "Trùng sinh trở về: Bắt đầu từ thiếu tộc trưởng chế bá dị giới",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa3b390631ac25c077247a",
+                        "StoryUpdateTime": "1/17/2024 4:43:57 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "trung-sinh-tro-ve-bat-dau-tu-thieu-toc-truong-che-ba-di-gioi",
+                        "StoryView": 126
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a923060631ac36f4d6e7c5.jpg",
+                        "StoryName": "Côn Thôn Thiên Hạ",
+                        "StoryTitleLastChap": "chapter 28",
+                        "StoryID": "64a923060631ac36f4d6e7c5",
+                        "StoryUpdateTime": "12/27/2023 4:49:05 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "con-thon-thien-ha",
+                        "StoryView": 487
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2a720631ac25c07722fa.jpg",
+                        "StoryName": "Trở Về 1983 Làm Phú Hào",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64aa2a720631ac25c07722fa",
+                        "StoryUpdateTime": "12/15/2023 3:12:00 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "tro-ve-1983-lam-phu-hao",
+                        "StoryView": 473
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a928660631ac36f4d6e7df.jpg",
+                        "StoryName": "Chí Tôn Trời Hoang",
+                        "StoryTitleLastChap": "chapter 4",
+                        "StoryID": "64a928660631ac36f4d6e7df",
+                        "StoryUpdateTime": "12/13/2023 10:44:38 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "chi-ton-troi-hoang-1",
+                        "StoryView": 79
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a9228b0631ac36f4d6e7c3.jpg",
+                        "StoryName": "Tối Cường Phản Phái Hệ Thống",
+                        "StoryTitleLastChap": "chapter 2",
+                        "StoryID": "64a9228b0631ac36f4d6e7c3",
+                        "StoryUpdateTime": "12/13/2023 10:42:34 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "toi-cuong-phan-phai-he-thong-1",
+                        "StoryView": 2
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a936480631ac36f4d6e86d.jpg",
+                        "StoryName": "Ta Chỉ Muốn An Tĩnh Lặng Lẽ Tu Luyện",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64a936480631ac36f4d6e86d",
+                        "StoryUpdateTime": "12/13/2023 10:40:59 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-chi-muon-an-tinh-lang-le-tu-luyen-1",
+                        "StoryView": 7
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a934ee0631ac36f4d6e847.jpg",
+                        "StoryName": "Đại Sư Huynh Không Có Gì Nổi Bật",
+                        "StoryTitleLastChap": "chapter 4",
+                        "StoryID": "64a934ee0631ac36f4d6e847",
+                        "StoryUpdateTime": "12/13/2023 10:39:51 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "dai-su-huynh-khong-co-gi-noi-bat-1",
+                        "StoryView": 107
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa24110631ac25c0772268.jpg",
+                        "StoryName": "Ta Đến Từ Thời Không",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64aa24110631ac25c0772268",
+                        "StoryUpdateTime": "12/13/2023 10:32:31 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-den-tu-thoi-khong-1",
+                        "StoryView": 4
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a936230631ac36f4d6e869.jpg",
+                        "StoryName": "Ta ở thế giới quỷ dị ngụy trang thành tay mơ bị phát hiện rồi?",
+                        "StoryTitleLastChap": "Chapter 2",
+                        "StoryID": "64a936230631ac36f4d6e869",
+                        "StoryUpdateTime": "12/13/2023 10:22:24 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-o-the-gioi-quy-di-nguy-trang-thanh-tay-mo-bi-phat-hien-roi-1",
+                        "StoryView": 4
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a935010631ac36f4d6e849.jpg",
+                        "StoryName": "Chưởng Môn Khiêm Tốn Chút",
+                        "StoryTitleLastChap": "chapter 8",
+                        "StoryID": "64a935010631ac36f4d6e849",
+                        "StoryUpdateTime": "12/13/2023 10:21:09 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "chuong-mon-khiem-ton-chut-1",
+                        "StoryView": 15
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa20660631ac25c0772214.jpg",
+                        "StoryName": "Thành Tựu Của Ta Là 100 Triệu Điểm!",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64aa20660631ac25c0772214",
+                        "StoryUpdateTime": "12/13/2023 10:19:10 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "thanh-tuu-cua-ta-la-100-trieu-diem!-1",
+                        "StoryView": 0
+                    }
+                ]
+            },
+            {
+                "TenTheLoai": "Huyền Huyễn",
+                "MoTa": null,
+                "ID": "649d61c00631b61a30ca324d",
+                "Truyen": [
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa3af50631ac25c0772474.jpg",
+                        "StoryName": "Đánh Bại Chư Thiên",
+                        "StoryTitleLastChap": "chapter 3",
+                        "StoryID": "64aa3af50631ac25c0772474",
+                        "StoryUpdateTime": "1/20/2025 9:10:19 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "danh-bai-chu-thien",
+                        "StoryView": 20
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa34950631ac25c07723e2.jpg",
+                        "StoryName": "Hành Giả",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa34950631ac25c07723e2",
+                        "StoryUpdateTime": "3/27/2024 9:34:52 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "hanh-gia-1",
+                        "StoryView": 16
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa35e40631ac25c0772400.jpg",
+                        "StoryName": "Ta Dựa Vào Trộm Mộ Thành Thần",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa35e40631ac25c0772400",
+                        "StoryUpdateTime": "3/27/2024 9:34:35 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-dua-vao-trom-mo-thanh-than",
+                        "StoryView": 33
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a90daa0631ac36f4d6d4ca.jpg",
+                        "StoryName": "Thiên Đạo Đồ Thư Quán",
+                        "StoryTitleLastChap": "chapter 21",
+                        "StoryID": "64a90daa0631ac36f4d6d4ca",
+                        "StoryUpdateTime": "12/15/2023 3:06:16 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "thien-dao-do-thu-quan-1",
+                        "StoryView": 39
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a91f650631ac36f4d6e783.jpg",
+                        "StoryName": "Bắt đầu đã là ma tôn chuyển sinh",
+                        "StoryTitleLastChap": "Chapter 0",
+                        "StoryID": "64a91f650631ac36f4d6e783",
+                        "StoryUpdateTime": "12/15/2023 3:05:58 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-1",
+                        "StoryView": 19
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a91fc60631ac36f4d6e78b.jpg",
+                        "StoryName": "Ta mở vô song trong trò chơi bí ẩn",
+                        "StoryTitleLastChap": "Chapter 6 fix",
+                        "StoryID": "64a91fc60631ac36f4d6e78b",
+                        "StoryUpdateTime": "12/15/2023 2:37:44 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-mo-vo-song-trong-tro-choi-bi-an-1",
+                        "StoryView": 16
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a920690631ac36f4d6e79d.jpg",
+                        "StoryName": "Khắc Kim Thành Tiên",
+                        "StoryTitleLastChap": "chapter 15",
+                        "StoryID": "64a920690631ac36f4d6e79d",
+                        "StoryUpdateTime": "12/15/2023 2:24:12 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "khac-kim-thanh-tien-1",
+                        "StoryView": 18
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a9208c0631ac36f4d6e7a5.jpg",
+                        "StoryName": "Đệ Tử Của Ta Đều Là Siêu Thần",
+                        "StoryTitleLastChap": "chapter 11",
+                        "StoryID": "64a9208c0631ac36f4d6e7a5",
+                        "StoryUpdateTime": "12/15/2023 2:18:56 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "de-tu-cua-ta-deu-la-sieu-than-1",
+                        "StoryView": 147
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a930ea0631ac36f4d6e7f3.jpg",
+                        "StoryName": "Người Nuôi Rồng",
+                        "StoryTitleLastChap": "chapter 1",
+                        "StoryID": "64a930ea0631ac36f4d6e7f3",
+                        "StoryUpdateTime": "12/14/2023 8:56:40 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "nguoi-nuoi-rong-1",
+                        "StoryView": 124
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a920cb0631ac36f4d6e7b9.jpg",
+                        "StoryName": "Phục Thiên Thánh Chủ",
+                        "StoryTitleLastChap": "chapter 1",
+                        "StoryID": "64a920cb0631ac36f4d6e7b9",
+                        "StoryUpdateTime": "12/13/2023 10:51:35 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "phuc-thien-thanh-chu-1",
+                        "StoryView": 446
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a920d50631ac36f4d6e7bd.jpg",
+                        "StoryName": "Cái Thế Đế Tôn",
+                        "StoryTitleLastChap": "chapter 1",
+                        "StoryID": "64a920d50631ac36f4d6e7bd",
+                        "StoryUpdateTime": "12/13/2023 10:50:58 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "cai-the-de-ton-1",
+                        "StoryView": 2
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a927980631ac36f4d6e7d1.jpg",
+                        "StoryName": "Đạo Quân",
+                        "StoryTitleLastChap": "chapter 1",
+                        "StoryID": "64a927980631ac36f4d6e7d1",
+                        "StoryUpdateTime": "12/13/2023 10:49:11 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "dao-quan-1",
+                        "StoryView": 137
+                    }
+                ]
+            },
+            {
+                "TenTheLoai": "Hành Động",
+                "MoTa": null,
+                "ID": "649d5f820631b41a30cffe9a",
+                "Truyen": [
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2b250631ac25c077230a.jpg",
+                        "StoryName": "Kiếm Lâm",
+                        "StoryTitleLastChap": "Chapter 2",
+                        "StoryID": "64aa2b250631ac25c077230a",
+                        "StoryUpdateTime": "12/13/2023 7:04:33 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "kiem-lam",
+                        "StoryView": 11
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2fdd0631ac25c0772376.jpg",
+                        "StoryName": "Kiếm Đế Vi Tế",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa2fdd0631ac25c0772376",
+                        "StoryUpdateTime": "12/13/2023 2:54:37 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "kiem-de-vi-te",
+                        "StoryView": 4
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa31b30631ac25c07723a0.jpg",
+                        "StoryName": "Quỷ dị khôi phục: Ta có thể hóa thân thành đại yêu",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa31b30631ac25c07723a0",
+                        "StoryUpdateTime": "12/13/2023 2:05:00 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "quy-di-khoi-phuc-ta-co-the-hoa-than-thanh-dai-yeu",
+                        "StoryView": 2
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/thong-u-dai-thanh.jpg",
+                        "StoryName": "Thông U Đại Thánh",
+                        "StoryTitleLastChap": "chapter 25",
+                        "StoryID": "649c1ee50631ac1114ccd6ab",
+                        "StoryUpdateTime": "12/12/2023 7:46:29 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "thong-u-dai-thanh-1",
+                        "StoryView": 22
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/thien-ha-de-nhat-lu-bo.jpg",
+                        "StoryName": "Thiên Hạ Đệ Nhất Lữ Bố",
+                        "StoryTitleLastChap": "chapter 25",
+                        "StoryID": "649c103d0631ac1114cccfe5",
+                        "StoryUpdateTime": "12/12/2023 7:29:40 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "thien-ha-de-nhat-lu-bo-1",
+                        "StoryView": 7
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/nguyen-ton.jpg",
+                        "StoryName": "Nguyên Tôn",
+                        "StoryTitleLastChap": "chapter 20",
+                        "StoryID": "649ab3ac0631b32cc01b8724",
+                        "StoryUpdateTime": "12/12/2023 7:13:15 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "nguyen-ton-1",
+                        "StoryView": 163
+                    }
+                ]
+            },
+            {
+                "TenTheLoai": "Kinh Dị",
+                "MoTa": null,
+                "ID": "649d5f820631b41a30cffe9c",
+                "Truyen": [
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa35e40631ac25c0772400.jpg",
+                        "StoryName": "Ta Dựa Vào Trộm Mộ Thành Thần",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa35e40631ac25c0772400",
+                        "StoryUpdateTime": "3/27/2024 9:34:35 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-dua-vao-trom-mo-thanh-than",
+                        "StoryView": 33
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a937340631ac36f4d6e887.jpg",
+                        "StoryName": "Chữa Trị Hệ Trò Chơi Của Ta",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64a937340631ac36f4d6e887",
+                        "StoryUpdateTime": "12/14/2023 8:57:32 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "chua-tri-he-tro-choi-cua-ta-1",
+                        "StoryView": 4
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa22250631ac25c077223c.jpg",
+                        "StoryName": "Cùng Hung Kỳ Ác",
+                        "StoryTitleLastChap": "Chapter 2",
+                        "StoryID": "64aa22250631ac25c077223c",
+                        "StoryUpdateTime": "12/13/2023 10:23:09 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "cung-hung-ky-ac-1",
+                        "StoryView": 38
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa274d0631ac25c07722b2.jpg",
+                        "StoryName": "Tâm Ma",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa274d0631ac25c07722b2",
+                        "StoryUpdateTime": "12/13/2023 9:47:52 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "tam-ma-1",
+                        "StoryView": 9
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2a890631ac25c07722fc.jpg",
+                        "StoryName": "Nhà Sưu Tập Dị Thường",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa2a890631ac25c07722fc",
+                        "StoryUpdateTime": "12/13/2023 8:45:00 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "nha-suu-tap-di-thuong",
+                        "StoryView": 3
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2bd80631ac25c077231a.jpg",
+                        "StoryName": "Trong Cơ Thể Ta Có Quỷ",
+                        "StoryTitleLastChap": "Chapter 2",
+                        "StoryID": "64aa2bd80631ac25c077231a",
+                        "StoryUpdateTime": "12/13/2023 3:30:20 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "trong-co-the-ta-co-quy-1",
+                        "StoryView": 0
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2d810631ac25c0772340.jpg",
+                        "StoryName": "Ta Có Cung Hoàng Kim Tại Tận Thế",
+                        "StoryTitleLastChap": "Chapter 8",
+                        "StoryID": "64aa2d810631ac25c0772340",
+                        "StoryUpdateTime": "12/13/2023 3:14:32 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-co-cung-hoang-kim-tai-tan-the-1",
+                        "StoryView": 1
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2f9a0631ac25c0772370.jpg",
+                        "StoryName": "Ta Tới Từ Địa Ngục",
+                        "StoryTitleLastChap": "Chapter 10",
+                        "StoryID": "64aa2f9a0631ac25c0772370",
+                        "StoryUpdateTime": "12/13/2023 3:00:04 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-toi-tu-dia-nguc",
+                        "StoryView": 11
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2fdd0631ac25c0772376.jpg",
+                        "StoryName": "Kiếm Đế Vi Tế",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa2fdd0631ac25c0772376",
+                        "StoryUpdateTime": "12/13/2023 2:54:37 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "kiem-de-vi-te",
+                        "StoryView": 4
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa30ea0631ac25c077238e.jpg",
+                        "StoryName": "Bắt đầu với địa phủ: Phát sóng trực tiếp ở đây ai dám đến",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa30ea0631ac25c077238e",
+                        "StoryUpdateTime": "12/13/2023 2:46:10 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den",
+                        "StoryView": 8
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa31b30631ac25c07723a0.jpg",
+                        "StoryName": "Quỷ dị khôi phục: Ta có thể hóa thân thành đại yêu",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa31b30631ac25c07723a0",
+                        "StoryUpdateTime": "12/13/2023 2:05:00 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "quy-di-khoi-phuc-ta-co-the-hoa-than-thanh-dai-yeu",
+                        "StoryView": 2
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa31c90631ac25c07723a2.jpg",
+                        "StoryName": "Phá tà: Có người để cho ta trực tiếp bắt quỷ",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa31c90631ac25c07723a2",
+                        "StoryUpdateTime": "12/13/2023 2:01:22 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-1",
+                        "StoryView": 1
+                    }
+                ]
+            },
+            {
+                "TenTheLoai": "Ngôn Tình",
+                "MoTa": null,
+                "ID": "649d61870631b61a30ca3238",
+                "Truyen": [
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2b0f0631ac25c0772308.jpg",
+                        "StoryName": "Thạch Thiếu Hiệp Thật Cô Đơn",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64aa2b0f0631ac25c0772308",
+                        "StoryUpdateTime": "12/13/2023 8:37:09 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "thach-thieu-hiep-that-co-don",
+                        "StoryView": 70
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2f9a0631ac25c0772370.jpg",
+                        "StoryName": "Ta Tới Từ Địa Ngục",
+                        "StoryTitleLastChap": "Chapter 10",
+                        "StoryID": "64aa2f9a0631ac25c0772370",
+                        "StoryUpdateTime": "12/13/2023 3:00:04 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-toi-tu-dia-nguc",
+                        "StoryView": 11
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa37fd0631ac25c0772430.jpg",
+                        "StoryName": "Trở Lại Với Sức Mạnh Của Hệ Thống",
+                        "StoryTitleLastChap": "chapter 1",
+                        "StoryID": "64aa37fd0631ac25c0772430",
+                        "StoryUpdateTime": "12/12/2023 9:24:31 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "tro-lai-voi-suc-manh-cua-he-thong",
+                        "StoryView": 11
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a937c50631ac36f4d6e897.jpg",
+                        "StoryName": "Cô Gái Xuyên Không Thành Phú Nhị Đại",
+                        "StoryTitleLastChap": "Đang cập nhật",
+                        "StoryID": "64a937c50631ac36f4d6e897",
+                        "StoryUpdateTime": "7/8/2023 10:17:41 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "co-gai-xuyen-khong-thanh-phu-nhi-dai",
+                        "StoryView": 492
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a937b30631ac36f4d6e895.jpg",
+                        "StoryName": "Các Đại Lão Sủng Ái Ta Được Thể Làm Càn",
+                        "StoryTitleLastChap": "Đang cập nhật",
+                        "StoryID": "64a937b30631ac36f4d6e895",
+                        "StoryUpdateTime": "7/8/2023 10:17:23 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "cac-dai-lao-sung-ai-ta-duoc-the-lam-can-1",
+                        "StoryView": 140
+                    }
+                ]
+            },
+            {
+                "TenTheLoai": "Trọng Sinh",
+                "MoTa": null,
+                "ID": "649d61ec0631b61a30ca325a",
+                "Truyen": [
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa34950631ac25c07723e2.jpg",
+                        "StoryName": "Hành Giả",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa34950631ac25c07723e2",
+                        "StoryUpdateTime": "3/27/2024 9:34:52 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "hanh-gia-1",
+                        "StoryView": 16
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa3b390631ac25c077247a.jpg",
+                        "StoryName": "Trùng sinh trở về: Bắt đầu từ thiếu tộc trưởng chế bá dị giới",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa3b390631ac25c077247a",
+                        "StoryUpdateTime": "1/17/2024 4:43:57 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "trung-sinh-tro-ve-bat-dau-tu-thieu-toc-truong-che-ba-di-gioi",
+                        "StoryView": 126
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2a720631ac25c07722fa.jpg",
+                        "StoryName": "Trở Về 1983 Làm Phú Hào",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64aa2a720631ac25c07722fa",
+                        "StoryUpdateTime": "12/15/2023 3:12:00 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "tro-ve-1983-lam-phu-hao",
+                        "StoryView": 473
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a91f650631ac36f4d6e783.jpg",
+                        "StoryName": "Bắt đầu đã là ma tôn chuyển sinh",
+                        "StoryTitleLastChap": "Chapter 0",
+                        "StoryID": "64a91f650631ac36f4d6e783",
+                        "StoryUpdateTime": "12/15/2023 3:05:58 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-1",
+                        "StoryView": 19
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64a9228b0631ac36f4d6e7c3.jpg",
+                        "StoryName": "Tối Cường Phản Phái Hệ Thống",
+                        "StoryTitleLastChap": "chapter 2",
+                        "StoryID": "64a9228b0631ac36f4d6e7c3",
+                        "StoryUpdateTime": "12/13/2023 10:42:34 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "toi-cuong-phan-phai-he-thong-1",
+                        "StoryView": 2
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa21f80631ac25c0772238.jpg",
+                        "StoryName": "Vạn Cổ Chi Vương",
+                        "StoryTitleLastChap": "Chapter 1",
+                        "StoryID": "64aa21f80631ac25c0772238",
+                        "StoryUpdateTime": "12/13/2023 10:14:22 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "van-co-chi-vuong-1",
+                        "StoryView": 4
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa22950631ac25c0772246.jpg",
+                        "StoryName": "Thân là phản diện, treo lên đánh nhân vật chính là chuyện rất bình thường mà?",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa22950631ac25c0772246",
+                        "StoryUpdateTime": "12/13/2023 10:10:00 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "than-la-phan-dien-treo-len-danh-nhan-vat-chinh-la-chuyen-rat-binh-thuong-ma-1",
+                        "StoryView": 5
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa26570631ac25c077229c.jpg",
+                        "StoryName": "Tùy Tùng Của Nữ Phản Diện",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa26570631ac25c077229c",
+                        "StoryUpdateTime": "12/13/2023 10:01:54 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "tuy-tung-cua-nu-phan-dien-1",
+                        "StoryView": 64
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa274d0631ac25c07722b2.jpg",
+                        "StoryName": "Tâm Ma",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa274d0631ac25c07722b2",
+                        "StoryUpdateTime": "12/13/2023 9:47:52 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "tam-ma-1",
+                        "StoryView": 9
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa28590631ac25c07722ca.jpg",
+                        "StoryName": "Ta Có Một Gốc Cây Thần Thoại",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa28590631ac25c07722ca",
+                        "StoryUpdateTime": "12/13/2023 9:17:54 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "ta-co-mot-goc-cay-than-thoai-1",
+                        "StoryView": 3
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2b3b0631ac25c077230c.jpg",
+                        "StoryName": "Địa Hạch Chi Tử",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa2b3b0631ac25c077230c",
+                        "StoryUpdateTime": "12/13/2023 4:55:58 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "dia-hach-chi-tu",
+                        "StoryView": 10
+                    },
+                    {
+                        "StoryImage": "https://admin.truyen5sao.com/Pictures/Truyen/Large/64aa2bab0631ac25c0772316.jpg",
+                        "StoryName": "Sư Phụ Ta Đến Đại Nạn Mới Đột Phá",
+                        "StoryTitleLastChap": "Chapter 5",
+                        "StoryID": "64aa2bab0631ac25c0772316",
+                        "StoryUpdateTime": "12/13/2023 3:32:09 AM",
+                        "StoryAuthor": "Đang cập nhật",
+                        "StoryNameK": "su-phu-ta-den-dai-nan-moi-dot-pha",
+                        "StoryView": 7
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            {
+                "Image": "https://adminfake.nettruyentranh.com/Pictures/GalleryTruyenHot/648fbf8059e2201e3071e27c_1.jpg",
+                "IDTruyen": "648fbf8059e2201e3071e27c",
+                "TenTruyen": "Vũ Cực Thiên Hạ",
+                "TypeID": "0",
+                "DateUpdate": "2024-03-27T16:33:16.006Z",
+                "Id": "6603e7dc0631ac1894077ff8",
+                "MongoId": "6603e7dc0631ac1894077ff8"
+            },
+            {
+                "Image": "https://adminfake.nettruyentranh.com/Pictures/GalleryTruyenHot/648fbf8059e2201e3071e27c.jpg",
+                "IDTruyen": "648fbf8059e2201e3071e27c",
+                "TenTruyen": "Vũ Cực Thiên Hạ",
+                "TypeID": "0",
+                "DateUpdate": "2024-03-27T16:33:08.318Z",
+                "Id": "6603e7d40631ac1894077ff7",
+                "MongoId": "6603e7d40631ac1894077ff7"
+            },
+            {
+                "Image": "https://adminfake.nettruyentranh.com/Pictures/GalleryTruyenHot/649c0e160631ac1114cccf47_10.PNG",
+                "IDTruyen": "649c0e160631ac1114cccf47",
+                "TenTruyen": "Toàn chức pháp sư",
+                "TypeID": "0",
+                "DateUpdate": "2024-01-03T17:14:21.433Z",
+                "Id": "658262410631ac18841eb359",
+                "MongoId": "658262410631ac18841eb359"
+            },
+            {
+                "Image": "https://adminfake.nettruyentranh.com/Pictures/GalleryTruyenHot/64a923060631ac36f4d6e7c5_9.PNG",
+                "IDTruyen": "64a923060631ac36f4d6e7c5",
+                "TenTruyen": "Côn Thôn Thiên Hạ",
+                "TypeID": "0",
+                "DateUpdate": "2024-01-03T17:13:40.228Z",
+                "Id": "658a42c10631ac3168b044cc",
+                "MongoId": "658a42c10631ac3168b044cc"
+            },
+            {
+                "Image": "https://adminfake.nettruyentranh.com/Pictures/GalleryTruyenHot/64a923060631ac36f4d6e7c5_8.PNG",
+                "IDTruyen": "64a923060631ac36f4d6e7c5",
+                "TenTruyen": "Côn Thôn Thiên Hạ",
+                "TypeID": "0",
+                "DateUpdate": "2024-01-03T09:04:34.279Z",
+                "Id": "6582623b0631ac18841eb358",
+                "MongoId": "6582623b0631ac18841eb358"
+            }
+        ],
+        "moicapnhat": [
+            {
+                "StoryID": "64aa3af50631ac25c0772474",
+                "StoryName": "Đánh Bại Chư Thiên",
+                "StoryImage": "64aa3af50631ac25c0772474.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.457Z",
+                "StoryTitleLastChap": "chapter 3",
+                "NameKLastChap": "danh-bai-chu-thien-chapter-3",
+                "StoryNameK": "danh-bai-chu-thien",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 20,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6ea",
+                "MongoId": "678e12fb0631ac28c080b6ea"
+            },
+            {
+                "StoryID": "64aa34950631ac25c07723e2",
+                "StoryName": "Hành Giả",
+                "StoryImage": "64aa34950631ac25c07723e2.jpg",
+                "StoryUpdateTime": "2024-03-27T09:34:52.98Z",
+                "StoryTitleLastChap": "Chapter 5",
+                "NameKLastChap": "hanh-gia-chapter-5",
+                "StoryNameK": "hanh-gia-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 16,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6eb",
+                "MongoId": "678e12fb0631ac28c080b6eb"
+            },
+            {
+                "StoryID": "64aa35e40631ac25c0772400",
+                "StoryName": "Ta Dựa Vào Trộm Mộ Thành Thần",
+                "StoryImage": "64aa35e40631ac25c0772400.jpg",
+                "StoryUpdateTime": "2024-03-27T09:34:35.073Z",
+                "StoryTitleLastChap": "Chapter 5",
+                "NameKLastChap": "ta-dua-vao-trom-mo-thanh-than-chapter-5",
+                "StoryNameK": "ta-dua-vao-trom-mo-thanh-than",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 33,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6ec",
+                "MongoId": "678e12fb0631ac28c080b6ec"
+            },
+            {
+                "StoryID": "64aa3b390631ac25c077247a",
+                "StoryName": "Trùng sinh trở về: Bắt đầu từ thiếu tộc trưởng chế bá dị giới",
+                "StoryImage": "64aa3b390631ac25c077247a.jpg",
+                "StoryUpdateTime": "2024-01-17T04:43:57.438Z",
+                "StoryTitleLastChap": "Chapter 5",
+                "NameKLastChap": "trung-sinh-tro-ve-bat-dau-tu-thieu-toc-truong-che-ba-di-gioi-chapter-5",
+                "StoryNameK": "trung-sinh-tro-ve-bat-dau-tu-thieu-toc-truong-che-ba-di-gioi",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 126,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6ed",
+                "MongoId": "678e12fb0631ac28c080b6ed"
+            },
+            {
+                "StoryID": "64a923060631ac36f4d6e7c5",
+                "StoryName": "Côn Thôn Thiên Hạ",
+                "StoryImage": "64a923060631ac36f4d6e7c5.jpg",
+                "StoryUpdateTime": "2023-12-27T04:49:05.177Z",
+                "StoryTitleLastChap": "chapter 28",
+                "NameKLastChap": "con-thon-thien-ha-chapter-28",
+                "StoryNameK": "con-thon-thien-ha",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 487,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6ee",
+                "MongoId": "678e12fb0631ac28c080b6ee"
+            },
+            {
+                "StoryID": "64aa2a720631ac25c07722fa",
+                "StoryName": "Trở Về 1983 Làm Phú Hào",
+                "StoryImage": "64aa2a720631ac25c07722fa.jpg",
+                "StoryUpdateTime": "2023-12-15T03:12:00.502Z",
+                "StoryTitleLastChap": "Chapter 1",
+                "NameKLastChap": "tro-ve-1983-lam-phu-hao-chapter-1",
+                "StoryNameK": "tro-ve-1983-lam-phu-hao",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 473,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6ef",
+                "MongoId": "678e12fb0631ac28c080b6ef"
+            },
+            {
+                "StoryID": "64a90daa0631ac36f4d6d4ca",
+                "StoryName": "Thiên Đạo Đồ Thư Quán",
+                "StoryImage": "64a90daa0631ac36f4d6d4ca.jpg",
+                "StoryUpdateTime": "2023-12-15T03:06:16.226Z",
+                "StoryTitleLastChap": "chapter 21",
+                "NameKLastChap": "thien-dao-do-thu-quan-chapter-21",
+                "StoryNameK": "thien-dao-do-thu-quan-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 39,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6f0",
+                "MongoId": "678e12fb0631ac28c080b6f0"
+            },
+            {
+                "StoryID": "64a91f650631ac36f4d6e783",
+                "StoryName": "Bắt đầu đã là ma tôn chuyển sinh",
+                "StoryImage": "64a91f650631ac36f4d6e783.jpg",
+                "StoryUpdateTime": "2023-12-15T03:05:58.365Z",
+                "StoryTitleLastChap": "Chapter 0",
+                "NameKLastChap": "mo-dau-lam-ma-ton-chapter-02",
+                "StoryNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 19,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6f1",
+                "MongoId": "678e12fb0631ac28c080b6f1"
+            },
+            {
+                "StoryID": "64a91fb90631ac36f4d6e787",
+                "StoryName": "Tu Chân Nói Chuyện Phiếm Quần",
+                "StoryImage": "64a91fb90631ac36f4d6e787.jpg",
+                "StoryUpdateTime": "2023-12-15T03:00:55.653Z",
+                "StoryTitleLastChap": "chapter 9",
+                "NameKLastChap": "tu-chan-noi-chuyen-phiem-quan-chapter-9",
+                "StoryNameK": "tu-chan-noi-chuyen-phiem-quan-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 472,
+                "StoryTrangChuType": 0,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b6f2",
+                "MongoId": "678e12fb0631ac28c080b6f2"
+            }
+        ],
+        "truyenhot": [
+            {
+                "StoryID": "64a920cb0631ac36f4d6e7b9",
+                "StoryName": "Phục Thiên Thánh Chủ",
+                "StoryImage": "64a920cb0631ac36f4d6e7b9.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "chapter 1",
+                "NameKLastChap": "phuc-thien-thanh-chu-chapter-1",
+                "StoryNameK": "phuc-thien-thanh-chu-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 446,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b746",
+                "MongoId": "678e12fb0631ac28c080b746"
+            },
+            {
+                "StoryID": "64a935b60631ac36f4d6e85d",
+                "StoryName": "Người Đưa Thư Vô Hạn",
+                "StoryImage": "64a935b60631ac36f4d6e85d.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "Đang cập nhật",
+                "NameKLastChap": "",
+                "StoryNameK": "nguoi-dua-thu-vo-han-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 452,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b745",
+                "MongoId": "678e12fb0631ac28c080b745"
+            },
+            {
+                "StoryID": "64a91fb90631ac36f4d6e787",
+                "StoryName": "Tu Chân Nói Chuyện Phiếm Quần",
+                "StoryImage": "64a91fb90631ac36f4d6e787.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "chapter 9",
+                "NameKLastChap": "tu-chan-noi-chuyen-phiem-quan-chapter-9",
+                "StoryNameK": "tu-chan-noi-chuyen-phiem-quan-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 472,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b744",
+                "MongoId": "678e12fb0631ac28c080b744"
+            },
+            {
+                "StoryID": "64aa37070631ac25c077241a",
+                "StoryName": "Ta, tân thủ NPC, treo cự long lên đánh là thích hợp nhỉ",
+                "StoryImage": "64aa37070631ac25c077241a.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "Chapter 3",
+                "NameKLastChap": "ta-tan-thu-npc-treo-cu-long-len-danh-la-thich-hop-nhi-chapter-3",
+                "StoryNameK": "ta-tan-thu-npc-treo-cu-long-len-danh-la-thich-hop-nhi",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 659,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b73f",
+                "MongoId": "678e12fb0631ac28c080b73f"
+            },
+            {
+                "StoryID": "64aa2a720631ac25c07722fa",
+                "StoryName": "Trở Về 1983 Làm Phú Hào",
+                "StoryImage": "64aa2a720631ac25c07722fa.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "Chapter 1",
+                "NameKLastChap": "tro-ve-1983-lam-phu-hao-chapter-1",
+                "StoryNameK": "tro-ve-1983-lam-phu-hao",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 473,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b743",
+                "MongoId": "678e12fb0631ac28c080b743"
+            },
+            {
+                "StoryID": "64a9328d0631ac36f4d6e80f",
+                "StoryName": "Dị Thế Tà Quân",
+                "StoryImage": "64a9328d0631ac36f4d6e80f.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "Đang cập nhật",
+                "NameKLastChap": "",
+                "StoryNameK": "di-the-ta-quan-1",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 436,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b747",
+                "MongoId": "678e12fb0631ac28c080b747"
+            },
+            {
+                "StoryID": "64aa20d60631ac25c077221e",
+                "StoryName": "Rich Player - Người Chơi Khắc Kim",
+                "StoryImage": "64aa20d60631ac25c077221e.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "chapter 4",
+                "NameKLastChap": "rich-player---nguoi-choi-khac-kim-chapter-4",
+                "StoryNameK": "rich-player---nguoi-choi-khac-kim",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 364,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b748",
+                "MongoId": "678e12fb0631ac28c080b748"
+            },
+            {
+                "StoryID": "64aa1e790631ac25c07721e8",
+                "StoryName": "Ta Làm Kiêu Hùng Tại Dị Giới",
+                "StoryImage": "64aa1e790631ac25c07721e8.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "Chapter 10",
+                "NameKLastChap": "",
+                "StoryNameK": "ta-lam-kieu-hung-tai-di-gioi",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 519,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b740",
+                "MongoId": "678e12fb0631ac28c080b740"
+            },
+            {
+                "StoryID": "64a937c50631ac36f4d6e897",
+                "StoryName": "Cô Gái Xuyên Không Thành Phú Nhị Đại",
+                "StoryImage": "64a937c50631ac36f4d6e897.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "Đang cập nhật",
+                "NameKLastChap": "",
+                "StoryNameK": "co-gai-xuyen-khong-thanh-phu-nhi-dai",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 492,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b741",
+                "MongoId": "678e12fb0631ac28c080b741"
+            },
+            {
+                "StoryID": "64a923060631ac36f4d6e7c5",
+                "StoryName": "Côn Thôn Thiên Hạ",
+                "StoryImage": "64a923060631ac36f4d6e7c5.jpg",
+                "StoryUpdateTime": "2025-01-20T09:10:19.738Z",
+                "StoryTitleLastChap": "chapter 28",
+                "NameKLastChap": "con-thon-thien-ha-chapter-28",
+                "StoryNameK": "con-thon-thien-ha",
+                "StoryAuthor": "Đang cập nhật",
+                "StoryView": 487,
+                "StoryTrangChuType": 3,
+                "IsKhuyenKhichDoc": 0,
+                "StoryTheLoai": [],
+                "StoryDescription": null,
+                "Id": "678e12fb0631ac28c080b742",
+                "MongoId": "678e12fb0631ac28c080b742"
+            }
+        ],
+        "sanpham": [],
+        "video": [],
+        "review": [],
+        "theodoichuadoc": 0,
+        "thongbaomoi": 0,
+        "version": "3.0.1",
+        "version_number": 1,
+        "updatesense": [
+            {
+                "system": "android",
+                "version_number": 25,
+                "versionname": "3.2.5",
+                "sense": "Update bổ sung nhiệm vụ",
+                "iboqua": false
+            },
+            {
+                "system": "ios",
+                "version_number": 25,
+                "versionname": "3.2.5",
+                "sense": "Update bổ sung nhiệm vụ",
+                "iboqua": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Địa Hạch Chi Tử",
+            "StoryOtherName": null,
+            "StoryImage": "64aa2b3b0631ac25c077230c.jpg",
+            "StoryDescription": "manhuavn.top - nhân loại đem địa hạch cải tạo thành một cái cự đại năng lượng cầu, thế giới từ đây bị đảo ngược tới, đây chính là lịch sử loài người bên trên mênh mông nhất công trình —— địa hạch chi tử kế hoạch! nam chính túc mạnh châu mang theo đệ đệ sinh hoạt tại tận dưới đáy một tầng mạt 1 giai khu, vì mang theo đệ đệ thượng giai, nam chính trải qua tỉ mỉ kế hoạch, khởi động thí lửa khuyết hệ thống, hai huynh đệ từ đây đi lên nhân sinh bật hack con đường......",
+            "StoryUpdateTime": "2023-12-13T04:55:58.4789039Z",
+            "StoryUpdateTimeTick": 638244957879864132,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Bí Ẩn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d616b0631b61a30ca322e",
+                    "MongoId": "649d616b0631b61a30ca322e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Hàn Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d69080631b81a309a9e46",
+                    "MongoId": "649d69080631b81a309a9e46"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Lãng Mạn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe96",
+                    "MongoId": "649d5f780631b41a30cffe96"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Siêu Nhiên",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f830631b41a30cffe9e",
+                    "MongoId": "649d5f830631b41a30cffe9e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61ec0631b61a30ca325a",
+                    "MongoId": "649d61ec0631b61a30ca325a"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "dia-hach-chi-tu-chapter-5",
+            "Keyword": "địa hạch chi tử dia hach chi tu đia hach chi tu dia hach chi tu",
+            "StoryView": 10,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/dia-hach-chi-tu-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "dia-hach-chi-tu",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "dia-hach-chi-tu-chapter-3",
+                    "ChapterID": "64b012870631ac049433c971",
+                    "datepost": "2023-07-13T22:04:39.258Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "dia-hach-chi-tu-chapter-4",
+                    "ChapterID": "64b0128d0631ac049433c9ee",
+                    "datepost": "2023-07-13T22:04:45.711Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "dia-hach-chi-tu-chapter-5",
+                    "ChapterID": "64b012910631ac049433c9fa",
+                    "datepost": "2023-07-13T22:04:49.649Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa2b3b0631ac25c077230c",
+            "MongoId": "64aa2b3b0631ac25c077230c"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b012730631ac049433c8cd",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

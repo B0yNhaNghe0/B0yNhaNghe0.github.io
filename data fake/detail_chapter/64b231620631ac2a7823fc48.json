@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 9,
+            "StoryID": "64a934ee0631ac36f4d6e847",
+            "StoryName": "Đại Sư Huynh Không Có Gì Nổi Bật",
+            "ChapTitle": "chapter 8",
+            "ChapContent": "<img src='https://i.ibb.co/HNDHCDz/0-dwzfd2ipowsqr6lcjdnh.jpg'/><img src='https://i.ibb.co/gmjbBfy/1-dwzfd2iqdgh52eufaic5s2r.jpg'/><img src='https://i.ibb.co/NYBrthF/2-dwzfd2ioey7lv5gxn4ns.jpg'/><img src='https://i.ibb.co/Wzh5v3M/3-dwzfd2iq8cdxu6m6k7.jpg'/><img src='https://i.ibb.co/981b510/4-dwzfd2ioiyagukgexzccaoh.jpg'/><img src='https://i.ibb.co/2Y0cW26/5-dwzfd2iqwmuofoz7rjn5sucg.jpg'/><img src='https://i.ibb.co/V3Dq6b5/6-dwzfd2ip9j42qu9fed3cu.jpg'/><img src='https://i.ibb.co/7GBfptF/7-dwzfd2iocnzkh3j3sn.jpg'/><img src='https://i.ibb.co/L9YKCrG/8-dwzfd2iqm74jqyn7x3.jpg'/><img src='https://i.ibb.co/yhdSVc4/9-dwzfd2iok64y08putz3roky.jpg'/><img src='https://i.ibb.co/ZT7Wkp8/10-dwzfd2ip3a55f7jnwr35.jpg'/><img src='https://i.ibb.co/CtVkj4p/11-dwzfd2irpffrmuzbkujul.jpg'/><img src='https://i.ibb.co/V20hvcy/12-dwzfd2irm31yajhfhi0.jpg'/><img src='https://i.ibb.co/T0Tdw7p/13-dwzfd2io1yf9ql33e3he.jpg'/><img src='https://i.ibb.co/xzDM9Mw/14-dwzfd2iq59iecay3hcxwui3.jpg'/><img src='https://i.ibb.co/KmfqNr2/15-dwzfd2ipuhjgs10zmi9.jpg'/><img src='https://i.ibb.co/0QsK33h/17-dwzfd2ipi4l1tq2drwigv3m5.jpg'/>",
+            "ChapNameK": "dai-su-huynh-khong-co-gi-noi-bat-chapter-8",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/dai-su-huynh-khong-co-gi-noi-bat-chapter-8.html",
+            "ChapPCount": 3,
+            "ChapPostDate": "2023-07-15T12:40:50.4065936Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b231620631ac2a7823fc48",
+            "MongoId": "64b231620631ac2a7823fc48"
+        },
+        "nextchap": "64b231960631ac2a7823fcdb",
+        "prevchap": "64b2315c0631ac2a7823fc3b",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 6,
+            "StoryID": "64aa2b0f0631ac25c0772308",
+            "StoryName": "Thạch Thiếu Hiệp Thật Cô Đơn",
+            "ChapTitle": "Chapter 5",
+            "ChapContent": "<img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/01_m9mtcs0t8kyxu5hq1ug86.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 5 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/02_m9mtdpxesv4wau.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 5 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/03_m9mtcpyvigrf1u.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 5 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/04_m9mtdl7udbd17n.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 5 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/05_m9mtekvjcwqbd17n.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 5 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/06_m9mtfceh8lvzb0p0chfwa.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 5 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "thach-thieu-hiep-that-co-don-chapter-5",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/thach-thieu-hiep-that-co-don-chapter-5.html",
+            "ChapPCount": 0,
+            "ChapPostDate": "2023-07-13T22:14:33.3755327Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b014d90631ac049433d3a2",
+            "MongoId": "64b014d90631ac049433d3a2"
+        },
+        "nextchap": "-1",
+        "prevchap": "64b014d40631ac049433d39b",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

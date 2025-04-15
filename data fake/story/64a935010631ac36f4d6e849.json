@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Chưởng Môn Khiêm Tốn Chút",
+            "StoryOtherName": null,
+            "StoryImage": "64a935010631ac36f4d6e849.jpg",
+            "StoryDescription": "xuyên qua thiên huyền giới, bắt đầu lại là chưởng môn môn phái rác rưởi! hoàng đế nạp tiền trùng sinh vào trong trò chơi, lấy người chơi làm chó săn, thu thế giới chi tử làm tiểu đệ, luận trang bức ta nhận thiên hạ đệ nhất",
+            "StoryUpdateTime": "2023-12-13T10:21:09.1047736Z",
+            "StoryUpdateTimeTick": 638244327530983269,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 8",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Isekai",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "chuong-mon-khiem-ton-chut-chapter-8",
+            "Keyword": "chưởng môn khiêm tốn chút chuong mon khiem ton chut chuong mon khiem ton chut chuong mon khiem ton chut",
+            "StoryView": 15,
+            "NumberUserFollow": 1,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/chuong-mon-khiem-ton-chut-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "chuong-mon-khiem-ton-chut-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 8",
+                    "ChapterNameK": "chuong-mon-khiem-ton-chut-chapter-8",
+                    "ChapterID": "64b2310e0631ac2a7823fb65",
+                    "datepost": "2023-07-15T12:39:26.074Z"
+                },
+                {
+                    "ChapterName": "chapter 9",
+                    "ChapterNameK": "chuong-mon-khiem-ton-chut-chapter-9",
+                    "ChapterID": "64b231110631ac2a7823fb6f",
+                    "datepost": "2023-07-15T12:39:29.606Z"
+                },
+                {
+                    "ChapterName": "chapter 10",
+                    "ChapterNameK": "chuong-mon-khiem-ton-chut-chapter-10",
+                    "ChapterID": "64b231150631ac2a7823fb7b",
+                    "datepost": "2023-07-15T12:39:33.137Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 10,
+            "Id": "64a935010631ac36f4d6e849",
+            "MongoId": "64a935010631ac36f4d6e849"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b230bb0631ac2a7823fa8d",
+            "Name": "chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

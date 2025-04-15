@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 4,
+            "StoryID": "64a9208c0631ac36f4d6e7a5",
+            "StoryName": "Đệ Tử Của Ta Đều Là Siêu Thần",
+            "ChapTitle": "chapter 4",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5fc9f9c70631ac2648c7df2c/1403_s1ijdy0cvv6ut0pz.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9f9c70631ac2648c7df2c/1404_s1ijdho69tw8ioxsax81.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9f9c70631ac2648c7df2c/1406_s1ijdwkk2xkcfycsbk4c.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9f9c70631ac2648c7df2c/1407_s1ijdmmj47ipakft0y.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9f9c70631ac2648c7df2c/201_s1ijd1r2cgg918g5s.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9f9c70631ac2648c7df2c/202_s1ijdjd0lfaic5s2r.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 4 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "de-tu-cua-ta-deu-la-sieu-than-chapter-4",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-14T19:11:29.2143519Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-15T09:16:51.466Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b13b710631ac0494340e0b",
+            "MongoId": "64b13b710631ac0494340e0b"
+        },
+        "nextchap": "64b13b770631ac0494340e2e",
+        "prevchap": "64b13b6d0631ac0494340df6",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

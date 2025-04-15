@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 6,
+            "StoryID": "64a935b60631ac36f4d6e85d",
+            "StoryName": "Người Đưa Thư Vô Hạn",
+            "ChapTitle": "chapter 6",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/01_zvihviwfpbjsr3duriy4.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/02_zvihvj9zuzxi7a709id.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/03_zvihvisz0x8nrjn5sucg.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/04_zvihvjlrl0dmx1pr0laoav.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/05_zvihvhdqyic1vigrf1u.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/06_zvihvg0cyy57d9z.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/07_zvihvg9dwb3x5bl82r8.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/08_zvihvjj47kgjlzdx.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/09_zvihvhcv8h2kx5bl82r8.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/10_zvihvinqmooox5bl82r8.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/11_zvihvgpwgguliwsnmogv.jpg' alt='Người Đưa Thư Vô Hạn chapter 6 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "nguoi-dua-thu-vo-han-chapter-6",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/nguoi-dua-thu-vo-han-chapter-6.html",
+            "ChapPCount": 8,
+            "ChapPostDate": "2023-07-15T15:28:00.1903114Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b258900631ac2a7824334a",
+            "MongoId": "64b258900631ac2a7824334a"
+        },
+        "nextchap": "64b2589a0631ac2a7824335d",
+        "prevchap": "64b258830631ac2a7824332d",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

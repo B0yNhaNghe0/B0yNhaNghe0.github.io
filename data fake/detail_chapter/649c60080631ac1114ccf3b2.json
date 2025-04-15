@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 12,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "nguyên tôn",
+            "ChapTitle": "chapter 12",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/0_mau71vsv64hw1ysjmmi74p5.jpg' title='nguyên tôn chapter 12 - trang 1'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/1_mau71vsv64hz9kkoy2t2f55q5.jpg' title='nguyên tôn chapter 12 - trang 2'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/2_mau71vsv64jasfvs7phy7wck.jpg' title='nguyên tôn chapter 12 - trang 3'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/3_mau71vsv64jkq8jzk18fmmaq.jpg' title='nguyên tôn chapter 12 - trang 4'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/4_mau71vsv64gduqmdfgl7e8w.jpg' title='nguyên tôn chapter 12 - trang 5'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/5_mau71vsv64gcv8zppctds3nb.jpg' title='nguyên tôn chapter 12 - trang 6'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/6_mau71vsv64hk8muu5yvrjn5sucg.jpg' title='nguyên tôn chapter 12 - trang 7'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/7_mau71vsv64j3pu8349oinwm.jpg' title='nguyên tôn chapter 12 - trang 8'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/8_mau71vsv64i5a2ll4wau.jpg' title='nguyên tôn chapter 12 - trang 9'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/9_mau71vsv64j4ljmnfkokisym8.jpg' title='nguyên tôn chapter 12 - trang 10'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/10_mau71vsv64ir2rugl8tmdo.jpg' title='nguyên tôn chapter 12 - trang 11'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/11_mau71vsv64jfv9dwkokisym8.jpg' title='nguyên tôn chapter 12 - trang 12'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/12_mau71vsv64jusb2yt2f55q5.jpg' title='nguyên tôn chapter 12 - trang 13'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/13_mau71vsv64gielt7jk18g5s.jpg' title='nguyên tôn chapter 12 - trang 14'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/14_mau71vsv64iy2o3hj587rl.jpg' title='nguyên tôn chapter 12 - trang 15'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/15_mau71vsv64ikc0iqc0p0chfwa.jpg' title='nguyên tôn chapter 12 - trang 16'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/16_mau71vsv64gwnwbjckokisym8.jpg' title='nguyên tôn chapter 12 - trang 17'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d800631af32507a2aa4/17_mau71vsv64h6jm6k7.jpg' title='nguyên tôn chapter 12 - trang 18'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-12",
+            "ChapStatus": 0,
+            "ChapTags": "http://craw.hamtruyen.info/doc-truyen/nguyen-ton-chapter-12.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-06-28T23:30:00.3164963Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c60080631ac1114ccf3b2",
+            "MongoId": "649c60080631ac1114ccf3b2"
+        },
+        "nextchap": "649c600b0631ac1114ccf3b3",
+        "prevchap": "649c60050631ac1114ccf3b1",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

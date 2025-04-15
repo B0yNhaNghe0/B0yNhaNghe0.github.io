@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 1,
+            "StoryID": "64a927980631ac36f4d6e7d1",
+            "StoryName": "Đạo Quân",
+            "ChapTitle": "chapter 1",
+            "ChapContent": "<img src='https://1.bp.blogspot.com/-qQl1OTcUlPI/YDNcY8N_dTI/AAAAAAAB1ZI/STBMfMHTmPYH8SQrIbp67hIVlSEk6kEtACLcBGAsYHQ/s0/1_1_01.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-2bZCa1pQXTM/YDNcY4n6ngI/AAAAAAAB1ZE/-REBXi6f4RIRqOAX0-_ozmsL7PDK5curACLcBGAsYHQ/s0/1_1_02.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-2Oqd7RG0TGM/YDNcY75mEXI/AAAAAAAB1ZA/9RETKiRTVQoTkwLSB58qQdXVIye2KkYagCLcBGAsYHQ/s0/1_1_03.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-rg7_-sm-050/YDNcZnvGQPI/AAAAAAAB1ZM/M-baqa-xF10l9rXWwy4sxPIZE8-o-HKGwCLcBGAsYHQ/s0/1_1_04.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-vysF1CsvqPA/YDNcaJWPQtI/AAAAAAAB1ZQ/EynGNZ5DmE8y-nDtV0xwR0mbR24qOi0SACLcBGAsYHQ/s0/1_1_05.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-8-r4EbSOGe4/YDNcaW_M2NI/AAAAAAAB1ZU/tGtdm7qJLYo9An64PcLFiQcYoFvGZG3_ACLcBGAsYHQ/s0/1_1_06.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-YY8qkkIr-hM/YDNcagSetCI/AAAAAAAB1ZY/NQbvNygtszgZFUHouC0PxHaU9l331nrxACLcBGAsYHQ/s0/1_1_07.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-twA9LVOnpj0/YDNca7Eo06I/AAAAAAAB1Zc/FfYr_LAIDUs5PUnR-vEoc__sh6JIu5K_gCLcBGAsYHQ/s0/1_1_08.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-2Gun9VxRKfA/YDNcbCJDVlI/AAAAAAAB1Zk/3e8HpkdtiWgOLW6n_3zjXo5C-0gUcsz3ACLcBGAsYHQ/s0/1_1_09.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-MwEGUPqi9hs/YDNcbJQa9tI/AAAAAAAB1Zg/I68w0R8a6PQqofiM08wfAsPpYlcUP3oJwCLcBGAsYHQ/s0/1_2_01.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-4Ww-T3QmlYo/YDNcbewNr_I/AAAAAAAB1Zo/nWN14Gqiv_kaqSEqBlGooMMCkKLGipr4ACLcBGAsYHQ/s0/1_2_02.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/><img src='https://1.bp.blogspot.com/-YtOGONLc2aI/YDNcb7S6fyI/AAAAAAAB1Zs/T3SXZD3UM-cM5V46Uj54EeW083FcrqkYwCLcBGAsYHQ/s0/1_2_03.jpg?imgmax=0' alt='Đạo Quân chapter 1 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "dao-quan-chapter-1",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-14T20:33:38.4218028Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-13T17:49:11.498Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b14eb20631ac0494344300",
+            "MongoId": "64b14eb20631ac0494344300"
+        },
+        "nextchap": "64b157120631ac04943459e3",
+        "prevchap": "-1",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

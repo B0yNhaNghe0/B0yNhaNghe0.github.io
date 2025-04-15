@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Ta Đến Từ Thời Không",
+            "StoryOtherName": null,
+            "StoryImage": "64aa24110631ac25c0772268.jpg",
+            "StoryDescription": "hổ thiên một nhân viên văn phòng bình thường xuyên không đến thế giới khác nơi con người ký kết khế ước với linh thú, ở đây anh bắt đầu với thân phận một \"tu chánh giả\", bắt đầu với hệ thống cùng linh thú khế ước đầu tiên là một thời không thú.........<br>",
+            "StoryUpdateTime": "2023-12-13T10:32:31.193826Z",
+            "StoryUpdateTimeTick": 638244939537099016,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 1",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Isekai",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "ta-toi-tu-thoi-khong-chapter-1",
+            "Keyword": "ta đến từ thời không ta den tu thoi khong ta đen tu thoi khong ta den tu thoi khong",
+            "StoryView": 4,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/ta-toi-tu-thoi-khong-chapter-0.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "ta-den-tu-thoi-khong-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 2",
+                    "ChapterNameK": "ta-toi-tu-thoi-khong-chapter-2",
+                    "ChapterID": "64b1fafb0631ac2a78239708",
+                    "datepost": "2023-07-15T08:48:43.866Z"
+                },
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "ta-toi-tu-thoi-khong-chapter-3",
+                    "ChapterID": "64b1fb0f0631ac2a78239739",
+                    "datepost": "2023-07-15T08:49:03.056Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "ta-toi-tu-thoi-khong-chapter-4",
+                    "ChapterID": "64b1fb160631ac2a7823974d",
+                    "datepost": "2023-07-15T08:49:10.588Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa24110631ac25c0772268",
+            "MongoId": "64aa24110631ac25c0772268"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b1faea0631ac2a782396e3",
+            "Name": "Chapter 0",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

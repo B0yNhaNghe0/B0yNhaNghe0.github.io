@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 5,
+            "StoryID": "64a9208c0631ac36f4d6e7a5",
+            "StoryName": "Đệ Tử Của Ta Đều Là Siêu Thần",
+            "ChapTitle": "chapter 5",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/3501_s1ijdicd1pr0laoav.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/3502_s1ijducdqh4x5bl82r8.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/3503_s1ijdqfyiia01ycsbk4c.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/3505_s1ijdx57kulrw5g5hq1ug86.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/3506_s1ijdutpruhkjn5sucg.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/3507_s1ijda3xsam6k7.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/401_s1ijdf5wz27bd17n.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/402_s1ijdk8omqaet.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/403_s1ijdfr1v2efaic5s2r.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/404_s1ijd202ukqu18fmmaq.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/405_s1ijd0y4tz3roky.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5fc9fa0c0631ac2648c7dfdf/406_s1ijd5pyg2jzhif.jpg' alt='Đệ Tử Của Ta Đều Là Siêu Thần chapter 5 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "de-tu-cua-ta-deu-la-sieu-than-chapter-5",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-14T19:11:35.1363864Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-15T09:17:10.093Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b13b770631ac0494340e2e",
+            "MongoId": "64b13b770631ac0494340e2e"
+        },
+        "nextchap": "64b13b7e0631ac0494340e59",
+        "prevchap": "64b13b710631ac0494340e0b",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

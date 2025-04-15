@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 15,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "nguyên tôn",
+            "ChapTitle": "chapter 15",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/0_mau71vsv64gf9zk3z709id.jpg' title='nguyên tôn chapter 15 - trang 1'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/1_mau71vsv64gc6fdznwm.jpg' title='nguyên tôn chapter 15 - trang 2'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/2_mau71vsv64iehzvyqbd17n.jpg' title='nguyên tôn chapter 15 - trang 3'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/3_mau71vsv64i7fxjm3jnn.jpg' title='nguyên tôn chapter 15 - trang 4'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/4_mau71vsv64hm8yvg2nbcl.jpg' title='nguyên tôn chapter 15 - trang 5'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/5_mau71vsv64gqpeutz3roky.jpg' title='nguyên tôn chapter 15 - trang 6'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/6_mau71vsv64hzfia0l33e3he.jpg' title='nguyên tôn chapter 15 - trang 7'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/7_mau71vsv64j4tu2y7t587rl.jpg' title='nguyên tôn chapter 15 - trang 8'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/8_mau71vsv64hluhjkogyh.jpg' title='nguyên tôn chapter 15 - trang 9'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/9_mau71vsv64iy52dxzccaoh.jpg' title='nguyên tôn chapter 15 - trang 10'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/10_mau71vsv64i7ecrznyigxn4ns.jpg' title='nguyên tôn chapter 15 - trang 11'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/11_mau71vsv64hklbl1rwigv3m5.jpg' title='nguyên tôn chapter 15 - trang 12'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/12_mau71vsv64j7hna8kw0tbzxmgo.jpg' title='nguyên tôn chapter 15 - trang 13'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/13_mau71vsv64jhahsuz5jpb1y.jpg' title='nguyên tôn chapter 15 - trang 14'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/14_mau71vsv64iw8gd002w64trs.jpg' title='nguyên tôn chapter 15 - trang 15'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/15_mau71vsv64iqhlxvwkofiimh.jpg' title='nguyên tôn chapter 15 - trang 16'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/16_mau71vsv64hznwrtljlrwigv3m5.jpg' title='nguyên tôn chapter 15 - trang 17'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/17_mau71vsv64jui7qdk5d.jpg' title='nguyên tôn chapter 15 - trang 18'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/18_mau71vsv64g3yf59h5m.jpg' title='nguyên tôn chapter 15 - trang 19'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d960631af32507a2ab2/19_mau71vsv64jc30hexcxwui3.jpg' title='nguyên tôn chapter 15 - trang 20'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-15",
+            "ChapStatus": 0,
+            "ChapTags": "http://craw.hamtruyen.info/doc-truyen/nguyen-ton-chapter-15.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-06-28T23:30:09.9005492Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c60110631ac1114ccf3b5",
+            "MongoId": "649c60110631ac1114ccf3b5"
+        },
+        "nextchap": "649c60150631ac1114ccf3b6",
+        "prevchap": "649c600e0631ac1114ccf3b4",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Dị Thế Tà Quân",
+            "StoryOtherName": null,
+            "StoryImage": "64a9328d0631ac36f4d6e80f.jpg",
+            "StoryDescription": "",
+            "StoryUpdateTime": "2023-07-08T09:55:25.8864887Z",
+            "StoryUpdateTimeTick": 638244321258864887,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Đang cập nhật",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Isekai",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "đô thị",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6bbc0631b81a309a9f20",
+                    "MongoId": "649d6bbc0631b81a309a9f20"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "",
+            "Keyword": "dị thế tà quân di the ta quan di the ta quan di the ta quan",
+            "StoryView": 436,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "di-the-ta-quan-1",
+            "IsCraw": true,
+            "Last3Chap": [],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 0,
+            "Id": "64a9328d0631ac36f4d6e80f",
+            "MongoId": "64a9328d0631ac36f4d6e80f"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b15b070631ac0494346685",
+            "Name": "chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

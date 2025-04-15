@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 212,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "Chapter 212",
+            "ChapContent": "",
+            "ChapNameK": "di-the-ta-quan-chapter-212",
+            "ChapStatus": 6,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-212.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2025-07-14T21:54:03.7814638Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "https://www.youtube.com/watch?v=dNgXS6qklgk",
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b1618b0631ac0494347fdc",
+            "MongoId": "64b1618b0631ac0494347fdc"
+        },
+        "nextchap": "64b161900631ac0494347fec",
+        "prevchap": "64b161880631ac0494347fcf",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

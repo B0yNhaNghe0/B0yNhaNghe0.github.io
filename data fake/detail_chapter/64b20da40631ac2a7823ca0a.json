@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 2,
+            "StoryID": "64aa1e790631ac25c07721e8",
+            "StoryName": "Ta Làm Kiêu Hùng Tại Dị Giới",
+            "ChapTitle": "Chapter 2",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh0_8pijhfyvz74wfmjkogyh.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh1_8pijhekfcizfz3jnn.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh2_8pijhcutybzkogyh.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh3_8pijheits4nxpakft0y.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh4_8pijhfa5txxyx8o5g1.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh5_8pijhec9pz7h06kkgjlzdx.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh6_8pijhea3leyp2hx.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh7_8pijhcx3uvvtqbl8tmdo.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh8_8pijheliqpx6u4x5bl82r8.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh9_8pijhczlfos68fmmaq.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh10_8pijhf3007v3gnom3it.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 2 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "ta-lam-kieu-hung-tai-di-gioi-chapter-2",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/ta-lam-kieu-hung-tai-di-gioi-chapter-2.html",
+            "ChapPCount": 8,
+            "ChapPostDate": "2023-07-15T10:08:20.1794233Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b20da40631ac2a7823ca0a",
+            "MongoId": "64b20da40631ac2a7823ca0a"
+        },
+        "nextchap": "64b20da80631ac2a7823ca1a",
+        "prevchap": "64b20d690631ac2a7823c941",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

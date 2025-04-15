@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Phá tà: Có người để cho ta trực tiếp bắt quỷ",
+            "StoryOtherName": null,
+            "StoryImage": "64aa31c90631ac25c07723a2.jpg",
+            "StoryDescription": "manhuavn.top - ân lục hư cùng muội muội ân khả nhi từ nhỏ sống ở cô nhi viện nương tựa lẫn nhau, huynh muội hai trời sinh có âm dương nhãn thể chất, chỉ là muội muội am hiểu linh thị cùng tịnh hóa, sáu hư am hiểu khu quỷ trừ tà. lưới đỏ meo meo tương trực tiếp tự sát sự kiện, để mcn công ty tuổi trẻ bá tổng hứa khiến hi thấy được hai huynh muội này năng lực, liền cực lực mời sáu tăng giá nhập công ty, lực bổng sáu hư trở thành khu quỷ lưới đỏ. sáu hư vì chữa trị muội muội mình thân thể, hiệp trợ hứa khiến hi xử lý nhiều cọc đô thị linh",
+            "StoryUpdateTime": "2023-12-13T02:01:22.3111679Z",
+            "StoryUpdateTimeTick": 638244974657790978,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Horror",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f820631b41a30cffe9c",
+                    "MongoId": "649d5f820631b41a30cffe9c"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "đô thị",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6bbc0631b81a309a9f20",
+                    "MongoId": "649d6bbc0631b81a309a9f20"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-chapter-5",
+            "Keyword": "phá tà: có người để cho ta trực tiếp bắt quỷ pha ta: co nguoi de cho ta truc tiep bat quy pha ta: co nguoi de cho ta truc tiep bat quy pha ta: co nguoi de cho ta truc tiep bat quy",
+            "StoryView": 1,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-chapter-3",
+                    "ChapterID": "64aff93d0631ac049433a42e",
+                    "datepost": "2023-07-13T20:16:45.397Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-chapter-4",
+                    "ChapterID": "64aff9420631ac049433a4a4",
+                    "datepost": "2023-07-13T20:16:50.381Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "pha-ta-co-nguoi-de-cho-ta-truc-tiep-bat-quy-chapter-5",
+                    "ChapterID": "64aff94c0631ac049433a4c0",
+                    "datepost": "2023-07-13T20:17:00.413Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa31c90631ac25c07723a2",
+            "MongoId": "64aa31c90631ac25c07723a2"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64aff9350631ac049433a416",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

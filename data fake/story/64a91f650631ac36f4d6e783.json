@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Bắt đầu đã là ma tôn chuyển sinh",
+            "StoryOtherName": null,
+            "StoryImage": "64a91f650631ac36f4d6e783.jpg",
+            "StoryDescription": "bởi vì che giấu thế giới này võ học chí tôn \"vấn thiên quyết\", ma giáo bị chính đạo bao vây một đêm tiêu diệt. một đời ma đầu nghê tử ngang cũng uống hận mà chết. vốn tưởng rằng cả đời cứ như vậy chấm dứt, ai ngờ nghê tử ngang lại sống lại trên người một ăn mày. vì thế bắt đầu ấp ủ một kế hoạch bất lương, ma đầu tàn sát thiên hạ kia, sớm hai mươi năm trở về rồi!",
+            "StoryUpdateTime": "2023-12-15T03:05:58.3652904Z",
+            "StoryUpdateTimeTick": 638244272215237244,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 0",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61ec0631b61a30ca325a",
+                    "MongoId": "649d61ec0631b61a30ca325a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "mo-dau-lam-ma-ton-chapter-02",
+            "Keyword": "bắt đầu đã là ma tôn chuyển sinh bat dau da la ma ton chuyen sinh bat dau da la ma ton chuyen sinh bat dau da la ma ton chuyen sinh",
+            "StoryView": 19,
+            "NumberUserFollow": 1,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/mo-dau-lam-ma-ton-chapter-0.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-chapter-32",
+                    "ChapterID": "64b138f50631ac04943403e3",
+                    "datepost": "2023-07-14T19:00:53.845Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-chapter-4",
+                    "ChapterID": "64b138fa0631ac04943403f6",
+                    "datepost": "2023-07-14T19:00:58.283Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "bat-dau-da-la-ma-ton-chuyen-sinh-chapter-52",
+                    "ChapterID": "64b138ff0631ac049434040a",
+                    "datepost": "2023-07-14T19:01:03.721Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 6,
+            "Id": "64a91f650631ac36f4d6e783",
+            "MongoId": "64a91f650631ac36f4d6e783"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b138e90631ac04943403b6",
+            "Name": "Chapter 0",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

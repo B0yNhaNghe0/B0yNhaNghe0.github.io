@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 206,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "Chapter 206",
+            "ChapContent": "",
+            "ChapNameK": "di-the-ta-quan-chapter-206",
+            "ChapStatus": 6,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-206.html",
+            "ChapPCount": 2,
+            "ChapPostDate": "2025-07-14T21:53:33.7022275Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "https://www.youtube.com/watch?v=dNgXS6qklgk",
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b1616d0631ac0494347f7b",
+            "MongoId": "64b1616d0631ac0494347f7b"
+        },
+        "nextchap": "64b161710631ac0494347f87",
+        "prevchap": "64b161690631ac0494347f6b",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

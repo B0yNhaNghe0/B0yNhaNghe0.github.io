@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Tùy Tùng Của Nữ Phản Diện",
+            "StoryOtherName": null,
+            "StoryImage": "64aa26570631ac25c077229c.jpg",
+            "StoryDescription": "manhuavn.top - xuyên không đến một thế giới dung hợp với thế giới tiểu thuyết. từ bắc vọng nhịn không được than thở một phen: vì sao người khác xuyên không đều là nhân vật chính, không tốt cũng là đại hôn quân, mà ta lại chỉ là một tiểu lâu la của nữ phản diện? có điều, hắn rất nhanh phát hiện, cảm giáỷ thế hiếp người coi như không tệ, dù sao oan ức đều có nữ nhân vật phản diện cõng. kết quả là, từ bắc vọng bên trên con đường ý thế hiếp người...",
+            "StoryUpdateTime": "2023-12-13T10:01:54.0285652Z",
+            "StoryUpdateTimeTick": 638244945353174237,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Isekai",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61ec0631b61a30ca325a",
+                    "MongoId": "649d61ec0631b61a30ca325a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "tuy-tung-cua-nu-phan-dien-chapter-5",
+            "Keyword": "tùy tùng của nữ phản diện tuy tung cua nu phan dien tuy tung cua nu phan dien tuy tung cua nu phan dien",
+            "StoryView": 64,
+            "NumberUserFollow": 3,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/tuy-tung-cua-nu-phan-dien-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "tuy-tung-cua-nu-phan-dien-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "tuy-tung-cua-nu-phan-dien-chapter-3",
+                    "ChapterID": "64b136dd0631ac049433fe3e",
+                    "datepost": "2023-07-14T18:51:57.59Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "tuy-tung-cua-nu-phan-dien-chapter-4",
+                    "ChapterID": "64b136e00631ac049433fe46",
+                    "datepost": "2023-07-14T18:52:00.997Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "tuy-tung-cua-nu-phan-dien-chapter-5",
+                    "ChapterID": "64b136e40631ac049433fe4d",
+                    "datepost": "2023-07-14T18:52:04.512Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa26570631ac25c077229c",
+            "MongoId": "64aa26570631ac25c077229c"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b11f4e0631ac049433f06b",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

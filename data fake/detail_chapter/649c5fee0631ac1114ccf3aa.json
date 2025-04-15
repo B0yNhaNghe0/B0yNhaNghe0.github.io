@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 4,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "Nguyên Tôn",
+            "ChapTitle": "chapter 4",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/0_4r23m4b6kp4mqaet.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/2_4r23m1mgdrl8tmdo.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/3_4r23mmwnwv34ffn.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/5_4r23mq4kshplaiudnps.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/6_4r23mzqje2h4nipf7wsy.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/7_4r23mh391dupxyu.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/8_4r23mom5ulebk5d.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/9_4r23ms2lxi8o5g1.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/10_4r23m3erfuxzozju.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/11_4r23mxuz2bhm0g03.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/12_4r23msgmx79q0ngv.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/13_4r23mmw42uvj9s.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/14_4r23mwu5afxr0hy7wck.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/15_4r23mzzul28ne05sui.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/16_4r23m9yxvt1hy7wck.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d2c0631af32507a2a84/17_4r23m5yquxsa4tds3nb.jpg' alt='Nguyên Tôn chapter 4 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-4",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-06-28T23:29:34.8491593Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-12T14:05:56.054Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c5fee0631ac1114ccf3aa",
+            "MongoId": "649c5fee0631ac1114ccf3aa"
+        },
+        "nextchap": "649c5ff20631ac1114ccf3ab",
+        "prevchap": "649c5feb0631ac1114ccf3a9",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

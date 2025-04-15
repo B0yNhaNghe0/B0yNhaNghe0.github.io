@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 20,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "Nguyên Tôn",
+            "ChapTitle": "chapter 20",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/0_mau71vsv64hrsnoh6epxyu.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/1_mau71vsv64jh5xwbj0a5dd5w.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/2_mau71vsv64hb8h756lk5d.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/3_mau71vsv64gsdxelvh0l33e3he.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/4_mau71vsv64ge19f4yfknacd0r.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/5_mau71vsv64gh5msnpkgjlzdx.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/6_mau71vsv64gplu85860w26.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/7_mau71vsv64i0qmzkgjlzdx.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/8_mau71vsv64jxz1ivwvb5a7.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/9_mau71vsv64j37elgh5m.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/10_mau71vsv64jtlbz4ygxn4ns.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/11_mau71vsv64g2bl33rkssraaq90s.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/12_mau71vsv64hc834z15ywul.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/13_mau71vsv64ioix6zfq8afycu3.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/14_mau71vsv64g5nzbgh5m.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072dbb0631af32507a2ac4/15_mau71vsv64ii5eq8oz3q7.jpg' alt='Nguyên Tôn chapter 20 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-20",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 4,
+            "ChapPostDate": "2023-06-28T23:30:25.7981129Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-12T14:13:15.728Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c60210631ac1114ccf3ba",
+            "MongoId": "649c60210631ac1114ccf3ba"
+        },
+        "nextchap": "649c60240631ac1114ccf3bb",
+        "prevchap": "649c601e0631ac1114ccf3b9",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

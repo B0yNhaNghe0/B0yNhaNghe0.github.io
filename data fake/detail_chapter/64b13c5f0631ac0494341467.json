@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 15,
+            "StoryID": "64a920690631ac36f4d6e79d",
+            "StoryName": "Khắc Kim Thành Tiên",
+            "ChapTitle": "chapter 15",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/1_6ippxpc0li5crem.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/2_6ipp91v6z1zhif.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/3_6ipp9djxqee06.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/4_6ippkm6pw0xqee06.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/5_6ipp8oodk88v64o.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/6_6ipp9n6az1p8fmmaq.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/7_6ipple23x1810zmi9.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/8_6ipp90t1d8o2hx.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/9_6ippkz4xup18g5s.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/10_6ipppx897mqidvs.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/11_6ipp8mzs1o7e8w.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/12_6ipp90uh9dia8sn03z.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/13_6ipp6mqbbw8oz3q7.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/14_6ipp9fbi4s7qfb7l8tmdo.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/15_6ippvhguwki7x0k.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/16_6ipp96u33nom3it.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/6ipp3kgrmmz8o5g1/17_6ippqbth0vn7x3.jpg' alt='Khắc Kim Thành Tiên chapter 15 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "khac-kim-thanh-tien-chapter-15",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-07-14T19:15:27.3172942Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-15T09:24:12.136Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b13c5f0631ac0494341467",
+            "MongoId": "64b13c5f0631ac0494341467"
+        },
+        "nextchap": "64b13c640631ac0494341485",
+        "prevchap": "64b13c5b0631ac0494341451",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

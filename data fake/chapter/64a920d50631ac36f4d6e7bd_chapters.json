@@ -1,0 +1,86 @@
+{
+    "success": true,
+    "data": {
+        "list_chap": [
+            {
+                "Id": "64b146850631ac0494342f3b",
+                "Name": "chapter 10",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:45.6841288Z"
+            },
+            {
+                "Id": "64b146810631ac0494342f29",
+                "Name": "chapter 9",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:41.2463812Z"
+            },
+            {
+                "Id": "64b1467d0631ac0494342f1d",
+                "Name": "chapter 8",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:37.7931757Z"
+            },
+            {
+                "Id": "64b1467a0631ac0494342f10",
+                "Name": "chapter 7",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:34.3868145Z"
+            },
+            {
+                "Id": "64b146760631ac0494342f01",
+                "Name": "chapter 6",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:30.9491807Z"
+            },
+            {
+                "Id": "64b146730631ac0494342ef2",
+                "Name": "chapter 5",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:27.0584042Z"
+            },
+            {
+                "Id": "64b1466f0631ac0494342ee7",
+                "Name": "chapter 4",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:58:23.5738936Z"
+            },
+            {
+                "Id": "64b13bce0631ac049434108c",
+                "Name": "chapter 3",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:13:02.9680011Z"
+            },
+            {
+                "Id": "64b13b510631ac0494340d59",
+                "Name": "chapter 2",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:10:57.7287313Z"
+            },
+            {
+                "Id": "64b13b4e0631ac0494340d46",
+                "Name": "chapter 1.5",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:10:54.322347Z"
+            },
+            {
+                "Id": "64b13b490631ac0494340d29",
+                "Name": "chapter 1",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-14T19:10:49.3221738Z"
+            }
+        ],
+        "listmua": "",
+        "vipmember": 0
+    }
+}

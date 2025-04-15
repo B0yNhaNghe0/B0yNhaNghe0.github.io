@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Thiên Hạ Đệ Nhất Lữ Bố",
+            "StoryOtherName": null,
+            "StoryImage": "thien-ha-de-nhat-lu-bo.jpg",
+            "StoryDescription": "ngươi tin không? nhân sinh của một người, từ tính cách ngươi hình thành một khắc này liền đã định trước, mặc dù nhân sinh sẽ có rất nhiều kỳ ngộ cùng rất nhiều lựa chọn, nhưng khi ngươi đối diện với mấy cái này kỳ ngộ cùng lựa chọn thời điểm, tính cách của ngươi cùng nhận thức đã được quyết định từ lâu ngươi sẽ lựa chọn như thế nào, làm một đã định trước kẻ thất bại, ngài có nguyện ý hay không từ giờ trở đi tái tạo nhân sinh cuộc sống của ngài? nhân sinh máy mô phỏng, thay đổi tương lai, thay đổi nhân sinh, ngươi đáng giá nắm giữ. thành lạc dương bên ngoài, lữ bố dạng chân tại ngựa xích thố bên trên theo đội ngũ chạy tại rộng rãi dịch đạo phía trên, trong đầu cái kia giống như như ác mộng tin tức lại lần nữa vọt tới, bên tai còn có cái kia muốn ăn đòn âm thanh không ngừng quanh quẩn, không nhiều, nhưng lại nhiều lần không ngừng mà nói, giống như mùa hè ruồi muỗi đồng dạng tại ngươi bên tai không ngừng thoáng qua, vẫn đánh không chết, để lữ bố phiền muộn không chịu nổi.",
+            "StoryUpdateTime": "2023-12-12T07:29:40.9382888Z",
+            "StoryUpdateTimeTick": 638235713736374659,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 25",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Action",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f820631b41a30cffe9a",
+                    "MongoId": "649d5f820631b41a30cffe9a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "thien-ha-de-nhat-lu-bo-chapter-25",
+            "Keyword": "thien ha đe nhat lu bo thiên hạ đệ nhất lữ bố",
+            "StoryView": 7,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "/doc-truyen/thien-ha-de-nhat-lu-bo-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "thien-ha-de-nhat-lu-bo-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 23",
+                    "ChapterNameK": "thien-ha-de-nhat-lu-bo-chapter-23",
+                    "ChapterID": "64a634a90631ac088c757615",
+                    "datepost": "2023-07-06T10:27:37.324Z"
+                },
+                {
+                    "ChapterName": "chapter 24",
+                    "ChapterNameK": "thien-ha-de-nhat-lu-bo-chapter-24",
+                    "ChapterID": "64a634a90631ac088c757616",
+                    "datepost": "2023-07-06T10:27:37.577Z"
+                },
+                {
+                    "ChapterName": "chapter 25",
+                    "ChapterNameK": "thien-ha-de-nhat-lu-bo-chapter-25",
+                    "ChapterID": "64a634ac0631ac088c757618",
+                    "datepost": "2023-07-06T10:27:40.525Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 25,
+            "Id": "649c103d0631ac1114cccfe5",
+            "MongoId": "649c103d0631ac1114cccfe5"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64a6347d0631ac088c7575fa",
+            "Name": "chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

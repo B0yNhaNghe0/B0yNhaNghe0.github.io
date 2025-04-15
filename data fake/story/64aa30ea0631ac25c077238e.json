@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Bắt đầu với địa phủ: Phát sóng trực tiếp ở đây ai dám đến",
+            "StoryOtherName": null,
+            "StoryImage": "64aa30ea0631ac25c077238e.jpg",
+            "StoryDescription": "manhuavn.top - một nhóm bạch vô thường thu hoạch được hệ thốngâm phủ trực tiếp , chỉ cần trực tiếp tuyên dương địa phủ văn hóa liền có thể thu hoạch được ban thưởng trợ giúp tu hành?! từ đây, nhân gian nhiều một cái thần kỳ trực tiếp ở giữa, kết nối nhân gian cùng âm phủ, chữa trị ôn nhu mà khôi hài cố sự tại trực tiếp ở giữa lần lượt trình diễn......",
+            "StoryUpdateTime": "2023-12-13T02:46:10.773163Z",
+            "StoryUpdateTimeTick": 638244972420005074,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f820631b41a30cffe9c",
+                    "MongoId": "649d5f820631b41a30cffe9c"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Phép Thuật",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d68e40631b81a309a9e3d",
+                    "MongoId": "649d68e40631b81a309a9e3d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trinh Thám",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d631c0631b61a30ca3399",
+                    "MongoId": "649d631c0631b61a30ca3399"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den-chapter-5",
+            "Keyword": "bắt đầu với địa phủ: phát sóng trực tiếp ở đây ai dám đến bat dau voi dia phu: phat song truc tiep o day ai dam den bat dau voi dia phu: phat song truc tiep o day ai dam den bat dau voi dia phu: phat song truc tiep o day ai dam den",
+            "StoryView": 8,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den-chapter-3",
+                    "ChapterID": "64aff9480631ac049433a4b6",
+                    "datepost": "2023-07-13T20:16:56.882Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den-chapter-4",
+                    "ChapterID": "64aff9500631ac049433a4cd",
+                    "datepost": "2023-07-13T20:17:04.944Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "bat-dau-voi-dia-phu-phat-song-truc-tiep-o-day-ai-dam-den-chapter-5",
+                    "ChapterID": "64aff9540631ac049433a4d8",
+                    "datepost": "2023-07-13T20:17:08.851Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa30ea0631ac25c077238e",
+            "MongoId": "64aa30ea0631ac25c077238e"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64aff9170631ac049433a3bd",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

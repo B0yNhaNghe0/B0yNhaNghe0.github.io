@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Thành Tựu Của Ta Là 100 Triệu Điểm!",
+            "StoryOtherName": null,
+            "StoryImage": "64aa20660631ac25c0772214.jpg",
+            "StoryDescription": "manhuavn.top - từ xuyên phát hiện tự mình làm sự tình gì đều sẽ đạt thành cái nào đó thành tựu. đinh! di chuyển một lần hòm gỗ, thu hoạch được thành tựu, hòm gỗ di động người, thu hoạch được thần cấp kỹ năng 【 di động cứ điểm 】! đinh! ở trong game uống nước ngươi là đệ nhất nhân, thu hoạch được thành tựu uống nước thiếu niên, thu hoạch được thần cấp kỹ năng 【 ngự thủy thuật 】! đinh! mở ra một lần đồ hộp, thu hoạch được thành tựu, mở bình người, thu hoạch được ban thưởng thần cấp kỹ năng 【 tăng gấp bội chi thuật 】!",
+            "StoryUpdateTime": "2023-12-13T10:19:10.459585Z",
+            "StoryUpdateTimeTick": 638244930140694350,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 1",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Isekai",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "thanh-tuu-cua-ta-la-100-trieu-diem-chapter-1",
+            "Keyword": "thành tựu của ta là 100 triệu điểm! thanh tuu cua ta la 100 trieu diem! thanh tuu cua ta la 100 trieu điem! thanh tuu cua ta la 100 trieu diem!",
+            "StoryView": 0,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/thanh-tuu-cua-ta-la-100-trieu-diem-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "thanh-tuu-cua-ta-la-100-trieu-diem!-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "thanh-tuu-cua-ta-la-100-trieu-diem-chapter-3",
+                    "ChapterID": "64b206100631ac2a7823b187",
+                    "datepost": "2023-07-15T09:36:00.322Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "thanh-tuu-cua-ta-la-100-trieu-diem-chapter-4",
+                    "ChapterID": "64b206140631ac2a7823b195",
+                    "datepost": "2023-07-15T09:36:04.745Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "thanh-tuu-cua-ta-la-100-trieu-diem-chapter-5",
+                    "ChapterID": "64b206190631ac2a7823b1a0",
+                    "datepost": "2023-07-15T09:36:09.183Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa20660631ac25c0772214",
+            "MongoId": "64aa20660631ac25c0772214"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b206070631ac2a7823b16e",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

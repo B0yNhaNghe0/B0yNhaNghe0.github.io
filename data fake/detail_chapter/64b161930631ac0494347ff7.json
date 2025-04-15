@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 214,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "Chapter 215",
+            "ChapContent": "",
+            "ChapNameK": "di-the-ta-quan-chapter-215",
+            "ChapStatus": 6,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-215.html",
+            "ChapPCount": 0,
+            "ChapPostDate": "2025-07-14T21:54:11.6724554Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "https://www.youtube.com/watch?v=dNgXS6qklgk",
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b161930631ac0494347ff7",
+            "MongoId": "64b161930631ac0494347ff7"
+        },
+        "nextchap": "64b161990631ac0494348009",
+        "prevchap": "64b161900631ac0494347fec",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

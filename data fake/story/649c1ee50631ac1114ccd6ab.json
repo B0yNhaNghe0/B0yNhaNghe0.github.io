@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Thông U Đại Thánh",
+            "StoryOtherName": null,
+            "StoryImage": "thong-u-dai-thanh.jpg",
+            "StoryDescription": "cố thành ý bỏ mình ngoài ý muốn, xuyên không đến một thế giới tiên hiệp chí quái  trở thành xuống dốc quý tộc đại càn trung dũng hầu phủ đại công tử. vì tránh né di nương ám sát, rời đi kinh thành, gia nhập trừng trị thiên địa võng lượng tĩnh đêm ti. quỷ bí giang hồ, yêu dị nhiều lần ra, triều đình mục nát, võ lâm thế gia, quần hùng cũng",
+            "StoryUpdateTime": "2023-12-12T07:46:29.0400227Z",
+            "StoryUpdateTimeTick": 638235751256623494,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 25",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Action",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f820631b41a30cffe9a",
+                    "MongoId": "649d5f820631b41a30cffe9a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Adventure",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe94",
+                    "MongoId": "649d5f780631b41a30cffe94"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "thong-u-dai-thanh-chapter-25",
+            "Keyword": "thong u đai thanh thông u đại thánh",
+            "StoryView": 22,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "/doc-truyen/thong-u-dai-thanh-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "thong-u-dai-thanh-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 23",
+                    "ChapterNameK": "thong-u-dai-thanh-chapter-23",
+                    "ChapterID": "64a8e8160631ac36f4d6aa06",
+                    "datepost": "2023-07-08T11:37:42.904Z"
+                },
+                {
+                    "ChapterName": "chapter 24",
+                    "ChapterNameK": "thong-u-dai-thanh-chapter-24",
+                    "ChapterID": "64a8e81a0631ac36f4d6aa10",
+                    "datepost": "2023-07-08T11:37:46.248Z"
+                },
+                {
+                    "ChapterName": "chapter 25",
+                    "ChapterNameK": "thong-u-dai-thanh-chapter-25",
+                    "ChapterID": "64a8e81e0631ac36f4d6aa1b",
+                    "datepost": "2023-07-08T11:37:50.029Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 25,
+            "Id": "649c1ee50631ac1114ccd6ab",
+            "MongoId": "649c1ee50631ac1114ccd6ab"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64a8e7ca0631ac36f4d6a95f",
+            "Name": "chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

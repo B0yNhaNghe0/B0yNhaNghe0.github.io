@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 229,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "Chapter 231",
+            "ChapContent": "",
+            "ChapNameK": "di-the-ta-quan-chapter-231",
+            "ChapStatus": 6,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-231.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2025-07-14T21:55:49.1137477Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "https://www.youtube.com/watch?v=dNgXS6qklgk",
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b161f50631ac049434813d",
+            "MongoId": "64b161f50631ac049434813d"
+        },
+        "nextchap": "64b161fb0631ac0494348152",
+        "prevchap": "64b161f10631ac049434812d",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 2,
+            "StoryID": "64aa26570631ac25c077229c",
+            "StoryName": "Tùy Tùng Của Nữ Phản Diện",
+            "ChapTitle": "Chapter 2",
+            "ChapContent": "<img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/0_kzdvhw53rafnetg2nbcl.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/1_kzdv9z635dbhm0g03.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/2_kzdvfk3nkxlztz3roky.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/3_kzdv9crz10odeh.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/5_kzdv9cpbxeq7ouvsw.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/6_kzdv9g0sbevypxyu.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/7_kzdve7i53jnn.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/8_kzdv9k0myb4tz3roky.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/10_kzdv8fedaf0f1k5d.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/11_kzdv6q0ffe9fed3cu.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/12_kzdv9jwokukofiimh.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/13_kzdv4fl9pchzozju.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/15_kzdvj3gpj0a5dd5w.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/16_kzdv9dyiy4ffn.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/17_kzdv06afbwnom3it.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/18_kzdv9r5q4lvvpftmaa.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/kzdvlck9bbonwm/19_kzdvdzwn1fm4v9q0ngv.jpg' alt='Tùy Tùng Của Nữ Phản Diện Chapter 2 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "tuy-tung-cua-nu-phan-dien-chapter-2",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 12,
+            "ChapPostDate": "2023-07-14T18:51:52.6060555Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-13T17:00:56.651Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b136d80631ac049433fe35",
+            "MongoId": "64b136d80631ac049433fe35"
+        },
+        "nextchap": "64b136dd0631ac049433fe3e",
+        "prevchap": "64b11f4e0631ac049433f06b",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

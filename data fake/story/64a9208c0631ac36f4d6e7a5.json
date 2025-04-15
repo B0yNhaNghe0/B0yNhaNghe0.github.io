@@ -1,0 +1,101 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Đệ Tử Của Ta Đều Là Siêu Thần",
+            "StoryOtherName": null,
+            "StoryImage": "64a9208c0631ac36f4d6e7a5.jpg",
+            "StoryDescription": "cờ hó diệp dương đang tăng ca ở một công ty game, thì bị xuyên vào một tài khoản, mà tài khoảng này lại “full profession full skill”! cuộc sống của giáo chủ môn phái mặn mòi với thánh kiếm toàn cấp + tu tiên + ma pháp sư đã bắt đầu mở ra, mà đau đầu là hắn lại bị một đám đệ tử xinh đẹp thuyết phục hắn tiến lên... để biết tiến lên đâu các bạn hãy đón đọc nhé!",
+            "StoryUpdateTime": "2023-12-15T02:18:56.1354933Z",
+            "StoryUpdateTimeTick": 638244275162382464,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 11",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "de-tu-cua-ta-deu-la-sieu-than-chapter-11",
+            "Keyword": "đệ tử của ta đều là siêu thần de tu cua ta deu la sieu than đe tu cua ta đeu la sieu than de tu cua ta deu la sieu than",
+            "StoryView": 147,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/de-tu-cua-ta-deu-la-sieu-than-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "de-tu-cua-ta-deu-la-sieu-than-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 27",
+                    "ChapterNameK": "de-tu-cua-ta-deu-la-sieu-than-chapter-27",
+                    "ChapterID": "64b13c180631ac0494341271",
+                    "datepost": "2023-07-14T19:14:16.267Z"
+                },
+                {
+                    "ChapterName": "chapter 28",
+                    "ChapterNameK": "de-tu-cua-ta-deu-la-sieu-than-chapter-28",
+                    "ChapterID": "64b13c250631ac04943412b9",
+                    "datepost": "2023-07-14T19:14:29.393Z"
+                },
+                {
+                    "ChapterName": "chapter 29",
+                    "ChapterNameK": "de-tu-cua-ta-deu-la-sieu-than-chapter-29",
+                    "ChapterID": "64b13c380631ac0494341321",
+                    "datepost": "2023-07-14T19:14:48.143Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 29,
+            "Id": "64a9208c0631ac36f4d6e7a5",
+            "MongoId": "64a9208c0631ac36f4d6e7a5"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b13b490631ac0494340d2d",
+            "Name": "chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 8,
+            "StoryID": "64a935b60631ac36f4d6e85d",
+            "StoryName": "Người Đưa Thư Vô Hạn",
+            "ChapTitle": "chapter 8",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/01_eint0rz2ocdi74p5.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/02_eint0rwkthh5ccv00.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/03_eint0rwj3mx8o5g1.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/04_eint0rx6mj8mxa7g2nbcl.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/05_eint0rw7pzxhadds3nb.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/06_eint0rwdtuitxpxyu.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/07_eint0rwv40u0v.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/08_eint0rzcz5z9bl8tmdo.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/09_eint0rzcjdlhfj4ofay1z.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/10_eint0ryz8t4y4hg9cnyq.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/11_eint0rwx3nvq8foinwm.jpg' alt='Người Đưa Thư Vô Hạn chapter 8 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "nguoi-dua-thu-vo-han-chapter-8",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/nguoi-dua-thu-vo-han-chapter-8.html",
+            "ChapPCount": 8,
+            "ChapPostDate": "2023-07-15T15:28:23.7693541Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b258a70631ac2a782433e4",
+            "MongoId": "64b258a70631ac2a782433e4"
+        },
+        "nextchap": "64b258ac0631ac2a782433ed",
+        "prevchap": "64b2589a0631ac2a7824335d",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

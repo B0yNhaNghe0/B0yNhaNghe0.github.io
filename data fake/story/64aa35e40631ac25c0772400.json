@@ -1,0 +1,125 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Ta Dựa Vào Trộm Mộ Thành Thần",
+            "StoryOtherName": null,
+            "StoryImage": "64aa35e40631ac25c0772400.jpg",
+            "StoryDescription": "mạc kim giáo úy lục vân tại thám hiểm một lần trong cổ mộ tao ngộ tử cục! nguy cơ lúc lại bởi vì một bản thần bí cổ thư giáng lâm tiên giới. mười vạn năm trước chư tiên đại chiến vạn tiên vẫn diệt, tiên giới ở trong tiên mộ san sát. ............ \"mộ, không phải như thế trộm!\" lục vân nhìn xem cổ trong tiên mộ luống cuống tay chân tiên nhân, mỉm cười: \"muốn học không? ta dạy cho các ngươi a.",
+            "StoryUpdateTime": "2024-03-27T09:34:35.0735179Z",
+            "StoryUpdateTimeTick": 638244985168833308,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Bí Ẩn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d616b0631b61a30ca322e",
+                    "MongoId": "649d616b0631b61a30ca322e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61b40631b61a30ca3248",
+                    "MongoId": "649d61b40631b61a30ca3248"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f820631b41a30cffe9c",
+                    "MongoId": "649d5f820631b41a30cffe9c"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Đời Thường",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d62810631b61a30ca332d",
+                    "MongoId": "649d62810631b61a30ca332d"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "ta-dua-vao-trom-mo-thanh-than-chapter-5",
+            "Keyword": "ta dựa vào trộm mộ thành thần ta dua vao trom mo thanh than ta dua vao trom mo thanh than ta dua vao trom mo thanh than",
+            "StoryView": 34,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/ta-dua-vao-trom-mo-thanh-than-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "ta-dua-vao-trom-mo-thanh-than",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "ta-dua-vao-trom-mo-thanh-than-chapter-3",
+                    "ChapterID": "64af7afc0631ac1978d4bca1",
+                    "datepost": "2023-07-13T11:18:04.873Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "ta-dua-vao-trom-mo-thanh-than-chapter-4",
+                    "ChapterID": "64af7b020631ac1978d4bd1b",
+                    "datepost": "2023-07-13T11:18:10.842Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "ta-dua-vao-trom-mo-thanh-than-chapter-5",
+                    "ChapterID": "64af7b060631ac1978d4bd25",
+                    "datepost": "2023-07-13T11:18:14.248Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa35e40631ac25c0772400",
+            "MongoId": "64aa35e40631ac25c0772400"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64af7ac60631ac1978d4bb8d",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

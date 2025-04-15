@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 3,
+            "StoryID": "64a935b60631ac36f4d6e85d",
+            "StoryName": "Người Đưa Thư Vô Hạn",
+            "ChapTitle": "chapter 3",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/01_zvihvjan07c7jrh8o5g1.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/02_zvihvgx5uqlf6ut0pz.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/03_zvihvhaunyrkxc.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/04_zvihvhna4slp0b0p0chfwa.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/05_zvihvi746743pqbd17n.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/06_zvihvgzmdmouiwsnmogv.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/07_zvihvicyng2zds3nb.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/08_zvihvi7qrds3nb.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/09_zvihvg482783gda3seabky.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/10_zvihvjowr53yg9q0ngv.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/11_zvihvjhe10ia8sn03z.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/12_zvihvjm4pz3sn.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/13_zvihvgil1xz2nyrkxc.jpg' alt='Người Đưa Thư Vô Hạn chapter 3 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "nguoi-dua-thu-vo-han-chapter-3",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/nguoi-dua-thu-vo-han-chapter-3.html",
+            "ChapPCount": 10,
+            "ChapPostDate": "2023-07-15T15:27:38.1582761Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b2587a0631ac2a78243315",
+            "MongoId": "64b2587a0631ac2a78243315"
+        },
+        "nextchap": "64b2587e0631ac2a7824331d",
+        "prevchap": "64b258760631ac2a7824330e",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "success": true,
+    "data": {
+        "list_chap": [
+            {
+                "Id": "64b012e60631ac049433cacc",
+                "Name": "Chapter 5",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-13T22:06:14.6216903Z"
+            },
+            {
+                "Id": "64b012b40631ac049433ca70",
+                "Name": "Chapter 4",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-13T22:05:24.6198168Z"
+            },
+            {
+                "Id": "64b012670631ac049433c8a7",
+                "Name": "Chapter 3",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-13T22:04:07.4449375Z"
+            },
+            {
+                "Id": "64b012630631ac049433c89e",
+                "Name": "Chapter 2",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-13T22:04:03.8822283Z"
+            },
+            {
+                "Id": "64b012570631ac049433c81a",
+                "Name": "Chapter 1",
+                "isBuy": 0,
+                "iChapVip": 0,
+                "dateupdate": "2023-07-13T22:03:51.6161229Z"
+            }
+        ],
+        "listmua": "",
+        "vipmember": 0
+    }
+}

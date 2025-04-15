@@ -1,0 +1,101 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Thiên Đạo Đồ Thư Quán",
+            "StoryOtherName": null,
+            "StoryImage": "64a90daa0631ac36f4d6d4ca.jpg",
+            "StoryDescription": "trươnghuyền xuyên việt qua dị giới, thành một quang vinh giáo sư, trong đầu nhiều hơn một cái thần bí thư viện. chỉ cần hắn nhìn qua đồ vật, vô luận người vẫn là vật, đều có thể tự động hình thành thư tịch, ghi chép lại đối phương đủ loại khuyết điểm, thế là, hắn trâu lớn! dạy học sinh, thu đồ đệ, mở đường thụ",
+            "StoryUpdateTime": "2023-12-15T03:06:16.2261012Z",
+            "StoryUpdateTimeTick": 638244226827688653,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 21",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "thien-dao-do-thu-quan-chapter-21",
+            "Keyword": "thiên đạo đồ thư quán thien dao do thu quan thien đao đo thu quan thien dao do thu quan",
+            "StoryView": 39,
+            "NumberUserFollow": 1,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/thien-dao-do-thu-quan-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "thien-dao-do-thu-quan-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 19",
+                    "ChapterNameK": "thien-dao-do-thu-quan-chapter-19",
+                    "ChapterID": "64a90dfd0631ac36f4d6d683",
+                    "datepost": "2023-07-08T14:19:25.131Z"
+                },
+                {
+                    "ChapterName": "chapter 20",
+                    "ChapterNameK": "thien-dao-do-thu-quan-chapter-20",
+                    "ChapterID": "64a90e020631ac36f4d6d69b",
+                    "datepost": "2023-07-08T14:19:30.084Z"
+                },
+                {
+                    "ChapterName": "chapter 21",
+                    "ChapterNameK": "thien-dao-do-thu-quan-chapter-21",
+                    "ChapterID": "64a90e050631ac36f4d6d6ae",
+                    "datepost": "2023-07-08T14:19:33.506Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 21,
+            "Id": "64a90daa0631ac36f4d6d4ca",
+            "MongoId": "64a90daa0631ac36f4d6d4ca"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64a90db80631ac36f4d6d518",
+            "Name": "chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 3,
+            "StoryID": "64aa2b0f0631ac25c0772308",
+            "StoryName": "Thạch Thiếu Hiệp Thật Cô Đơn",
+            "ChapTitle": "Chapter 2",
+            "ChapContent": "<img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/1_m9mtcb5ccn28djhfhi0.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/2_m9mtf3mfexne05sui.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/3_m9mtddmcergnom3it.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/4_m9mte62mzwej3jnn.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/5_m9mtfw51s3nacd0r.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/6_m9mtfpjfldhzccaoh.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/7_m9mtex03rwb5qo.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/8_m9mtfh4vpftmaa.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/><img src='https://img03.vnmanga.top/bbdata/m9mtf8lu06zhif/9_m9mtfuobgzufaic5s2r.jpg' alt='Thạch Thiếu Hiệp Thật Cô Đơn Chapter 2 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "thach-thieu-hiep-that-co-don-chapter-2",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/thach-thieu-hiep-that-co-don-chapter-2.html",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-13T22:14:16.0154277Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b014c80631ac049433d37f",
+            "MongoId": "64b014c80631ac049433d37f"
+        },
+        "nextchap": "64b014d10631ac049433d393",
+        "prevchap": "64b014c10631ac049433d371",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

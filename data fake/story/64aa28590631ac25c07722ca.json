@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Ta Có Một Gốc Cây Thần Thoại",
+            "StoryOtherName": null,
+            "StoryImage": "64aa28590631ac25c07722ca.jpg",
+            "StoryDescription": "manhuavn.top - xuyên qua dị thế, tự mang một cái thần thoại chi thụ, phía trên vô số trái cây có thể mở ra vô hạn hack, mạnh như thần ma, muốn cái gì có cái gì, tại kinh khủng dị thế dẫn đầu nhân tộc ương ngạnh cầu sinh, đi đến nhân sinh đỉnh phong.",
+            "StoryUpdateTime": "2023-12-13T09:17:54.0195593Z",
+            "StoryUpdateTimeTick": 638244950499496892,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Manhua",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61ec0631b61a30ca325a",
+                    "MongoId": "649d61ec0631b61a30ca325a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Webtoon",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61fc0631b61a30ca3261",
+                    "MongoId": "649d61fc0631b61a30ca3261"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "ta-co-mot-goc-cay-than-thoai-chapter-5",
+            "Keyword": "ta có một gốc cây thần thoại ta co mot goc cay than thoai ta co mot goc cay than thoai ta co mot goc cay than thoai",
+            "StoryView": 3,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/ta-co-mot-goc-cay-than-thoai-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "ta-co-mot-goc-cay-than-thoai-1",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "ta-co-mot-goc-cay-than-thoai-chapter-3",
+                    "ChapterID": "64b112480631ac049433def8",
+                    "datepost": "2023-07-14T16:15:52.71Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "ta-co-mot-goc-cay-than-thoai-chapter-4",
+                    "ChapterID": "64b1124d0631ac049433df04",
+                    "datepost": "2023-07-14T16:15:57.835Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "ta-co-mot-goc-cay-than-thoai-chapter-5",
+                    "ChapterID": "64b112520631ac049433df10",
+                    "datepost": "2023-07-14T16:16:02.492Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa28590631ac25c07722ca",
+            "MongoId": "64aa28590631ac25c07722ca"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b111f50631ac049433dda6",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

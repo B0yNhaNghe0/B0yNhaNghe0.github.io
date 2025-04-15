@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 10,
+            "StoryID": "64a935b60631ac36f4d6e85d",
+            "StoryName": "Người Đưa Thư Vô Hạn",
+            "ChapTitle": "chapter 10",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/01_eint0ryxf4bqr7qtg2nbcl.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/02_eint0ryrjhyxam6k7.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/03_eint0ryn0qm82wh5m.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/04_eint0rzwpseuwyne05sui.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/05_eint0rz8r5bgxn4ns.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/06_eint0ryv41yrq8oz3q7.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/07_eint0rw0bkjbgj6wzhif.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/08_eint0rz7yhesacbo1admw.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/09_eint0ry9pu0hhr3duriy4.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/zvihvhqukyos60w26/10_eint0rx7f0s2ijnwr35.jpg' alt='Người Đưa Thư Vô Hạn chapter 10 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "nguoi-dua-thu-vo-han-chapter-10",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/nguoi-dua-thu-vo-han-chapter-10.html",
+            "ChapPCount": 17,
+            "ChapPostDate": "2023-07-15T15:28:40.0825643Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b258b80631ac2a78243407",
+            "MongoId": "64b258b80631ac2a78243407"
+        },
+        "nextchap": "-1",
+        "prevchap": "64b258ac0631ac2a782433ed",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 10,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "nguyên tôn",
+            "ChapTitle": "chapter 10",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/0_mau71vsv64izwhvh5jpb1y.jpg' title='nguyên tôn chapter 10 - trang 1'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/1_mau71vsv64gaej1qls68oz3q7.jpg' title='nguyên tôn chapter 10 - trang 2'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/2_mau71vsv64jg6m5bjouvj9s.jpg' title='nguyên tôn chapter 10 - trang 3'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/3_mau71vsv64imkc0izkofiimh.jpg' title='nguyên tôn chapter 10 - trang 4'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/4_mau71vsv64ivdvrv6bd17n.jpg' title='nguyên tôn chapter 10 - trang 5'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/5_mau71vsv64hklbtupakft0y.jpg' title='nguyên tôn chapter 10 - trang 6'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/6_mau71vsv64gnct2f55q5.jpg' title='nguyên tôn chapter 10 - trang 7'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/7_mau71vsv64jky7h2w64trs.jpg' title='nguyên tôn chapter 10 - trang 8'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/8_mau71vsv64gk06qxg9cnyq.jpg' title='nguyên tôn chapter 10 - trang 9'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/9_mau71vsv64ipb7f41cxwui3.jpg' title='nguyên tôn chapter 10 - trang 10'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/10_mau71vsv64jui9vx9g9cnyq.jpg' title='nguyên tôn chapter 10 - trang 11'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/11_mau71vsv64iif8sk9o7e8w.jpg' title='nguyên tôn chapter 10 - trang 12'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/12_mau71vsv64izp90c6o7e8w.jpg' title='nguyên tôn chapter 10 - trang 13'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/13_mau71vsv64jmhffne05sui.jpg' title='nguyên tôn chapter 10 - trang 14'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/14_mau71vsv64h57860w26.jpg' title='nguyên tôn chapter 10 - trang 15'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/15_mau71vsv64gc8so3duriy4.jpg' title='nguyên tôn chapter 10 - trang 16'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/16_mau71vsv64hu2ypmhfygxn4ns.jpg' title='nguyên tôn chapter 10 - trang 17'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d700631af32507a2a9e/17_mau71vsv64hjrx14vpftmaa.jpg' title='nguyên tôn chapter 10 - trang 18'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-10",
+            "ChapStatus": 0,
+            "ChapTags": "http://craw.hamtruyen.info/doc-truyen/nguyen-ton-chapter-10.html",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-06-28T23:29:53.9619053Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c60010631ac1114ccf3b0",
+            "MongoId": "649c60010631ac1114ccf3b0"
+        },
+        "nextchap": "649c60050631ac1114ccf3b1",
+        "prevchap": "649c5ffe0631ac1114ccf3af",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Côn Thôn Thiên Hạ",
+            "StoryOtherName": null,
+            "StoryImage": "64a923060631ac36f4d6e7c5.jpg",
+            "StoryDescription": "đây là một thế giới chỉ dành cho linh sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng linh sủng...<br>khởi đầu từ 1 chú cá côn. chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn lăng tiêu các - phàn lăng tiêu đem một bé cá nheo nhỏ tiến hóa thành thôn thiên phệ địa linh côn, trở thành linh sủng sư danh chấn thiên hạ<br>nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến linh côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. khi phàn lăng tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...<br>",
+            "StoryUpdateTime": "2023-12-27T04:49:05.1779148Z",
+            "StoryUpdateTimeTick": 638244281504973823,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 28",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Chuyển Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "con-thon-thien-ha-chapter-28",
+            "Keyword": "côn thôn thiên hạ con thon thien ha con thon thien ha con thon thien ha",
+            "StoryView": 487,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/con-thon-thien-ha-chapter-0.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "con-thon-thien-ha",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 26",
+                    "ChapterNameK": "con-thon-thien-ha-chapter-26",
+                    "ChapterID": "64b13bd60631ac04943410b0",
+                    "datepost": "2023-07-14T19:13:10.39Z"
+                },
+                {
+                    "ChapterName": "chapter 27",
+                    "ChapterNameK": "con-thon-thien-ha-chapter-27",
+                    "ChapterID": "64b13bdc0631ac04943410ce",
+                    "datepost": "2023-07-14T19:13:16.843Z"
+                },
+                {
+                    "ChapterName": "chapter 28",
+                    "ChapterNameK": "con-thon-thien-ha-chapter-28",
+                    "ChapterID": "64b13be00631ac04943410e2",
+                    "datepost": "2023-07-14T19:13:20.703Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 29,
+            "Id": "64a923060631ac36f4d6e7c5",
+            "MongoId": "64a923060631ac36f4d6e7c5"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b13b370631ac0494340ccf",
+            "Name": "chapter 0",
+            "type": 0
+        },
+        "numcomment": 5,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": [
+            {
+                "StoryID": "64a923060631ac36f4d6e7c5",
+                "StoryName": "Côn Thôn Thiên Hạ",
+                "TypeID": 2,
+                "LinkUrl": "/con-thon-thien-ha-0.html",
+                "UserNameComment": "hihiii",
+                "UserIdComment": "64d592e20631ac13bc7748bf",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2024-01-17T10:21:53.3492Z",
+                "CommentContent": "<img src='https://manhuavn.top/icons/18.png' title=':tanchay:'/>",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Level 1",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "649a91def30be11f44e134c2",
+                    "MongoId": "649a91def30be11f44e134c2"
+                },
+                "UserAvatar": "hihiii.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "UserKinhNghiem": 0,
+                "Id": "65a747d10631ac4200aee491",
+                "MongoId": "65a747d10631ac4200aee491"
+            },
+            {
+                "StoryID": "64a923060631ac36f4d6e7c5",
+                "StoryName": "Côn Thôn Thiên Hạ",
+                "TypeID": 2,
+                "LinkUrl": "/con-thon-thien-ha-0.html",
+                "UserNameComment": "hihi123",
+                "UserIdComment": "64a8cc180631ac06ccc0fa4d",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2023-12-28T13:54:52.8101559Z",
+                "CommentContent": "comment nè hay quá",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Level 1",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "649a91def30be11f44e134c2",
+                    "MongoId": "649a91def30be11f44e134c2"
+                },
+                "UserAvatar": "hihi123.jpg?v=1688816016",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "UserKinhNghiem": 0,
+                "Id": "658d1bbc0631ad3bf0991e99",
+                "MongoId": "658d1bbc0631ad3bf0991e99"
+            },
+            {
+                "StoryID": "64a923060631ac36f4d6e7c5",
+                "StoryName": "Côn Thôn Thiên Hạ",
+                "TypeID": 2,
+                "LinkUrl": "/con-thon-thien-ha-0.html",
+                "UserNameComment": "hihi123",
+                "UserIdComment": "64a8cc180631ac06ccc0fa4d",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2023-12-28T13:49:00.4839964Z",
+                "CommentContent": "thiện comment nè",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Level 1",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "649a91def30be11f44e134c2",
+                    "MongoId": "649a91def30be11f44e134c2"
+                },
+                "UserAvatar": "hihi123.jpg?v=1688816016",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "UserKinhNghiem": 0,
+                "Id": "658d1a5c0631ac3bf06a1652",
+                "MongoId": "658d1a5c0631ac3bf06a1652"
+            },
+            {
+                "StoryID": "64a923060631ac36f4d6e7c5",
+                "StoryName": "Côn Thôn Thiên Hạ",
+                "TypeID": 2,
+                "LinkUrl": "/con-thon-thien-ha-0.html",
+                "UserNameComment": "anhthiengaga",
+                "UserIdComment": "658bace30631ac3fd8ba994a",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2023-12-27T11:50:16.6660118Z",
+                "CommentContent": "công nhận bình cũng ga ga<img src='https://manhuavn.top/icons/17.png' title=':loesang:'/> <img src='https://manhuavn.top/icons/17.png' title=':loesang:'/> <img src='https://manhuavn.top/icons/17.png' title=':loesang:'/>",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Level 1",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "649a91def30be11f44e134c2",
+                    "MongoId": "649a91def30be11f44e134c2"
+                },
+                "UserAvatar": "anhthiengaga.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "UserKinhNghiem": 0,
+                "Id": "658bad080631ac3fd8ba994b",
+                "MongoId": "658bad080631ac3fd8ba994b"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 29,
+            "StoryID": "64a923060631ac36f4d6e7c5",
+            "StoryName": "Côn Thôn Thiên Hạ",
+            "ChapTitle": "chapter 28",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/credit_i1nsj7lu19a3seabky.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh13_i1nsvh6df0p0chfwa.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh14_i1nste9ma76lcjdnh.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh15_i1nswk0yf587rl.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh16_i1ns5prmycoine05sui.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh17_i1ns29532eq7ouvsw.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh18_i1nsnevfywsnmogv.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh19_i1nsu7lycsbk4c.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh20_i1nsudi3nbo1admw.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh21_i1ns75tml8j0a5dd5w.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh22_i1nszt0ulhbhm0g03.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh23_i1ns26u5qjev00.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh24_i1ns0wp5zevlycsbk4c.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/tsh25_i1nss88yayu7jn5sucg.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/wtaiapp_i1nskix8dsw4gtlto9.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/i1nsaax8061t/wtuyennhansu_i1nsb1lia8sn03z.jpg' alt='Côn Thôn Thiên Hạ chapter 28 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "con-thon-thien-ha-chapter-28",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 26,
+            "ChapPostDate": "2023-07-14T19:13:20.7030663Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-27T11:49:05.084Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b13be00631ac04943410e2",
+            "MongoId": "64b13be00631ac04943410e2"
+        },
+        "nextchap": "-1",
+        "prevchap": "64b13bdc0631ac04943410ce",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

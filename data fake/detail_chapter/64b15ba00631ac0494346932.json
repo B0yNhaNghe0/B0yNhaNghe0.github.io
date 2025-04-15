@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 15,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "chapter 15",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/01_u62c8478myfyoxsax81.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/02_u62c8ed6g8z860w26.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/03_u62c8zwlwwvb5a7.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/04_u62c8ndqjdk51ycsbk4c.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/05_u62c8wky3fr70acsp.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/06_u62c8d8z1e7vf9jhfhi0.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/07_u62c8ibz71deh.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/08_u62c83y7vdhdt2f55q5.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/09_u62c8uq67hmi74p5.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5db2547e0631af38bc040dc6/010_u62c8oirfxxqee06.jpg' alt='Dị Thế Tà Quân chapter 15 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "di-the-ta-quan-chapter-15",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-15.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-07-14T21:28:48.8944006Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b15ba00631ac0494346932",
+            "MongoId": "64b15ba00631ac0494346932"
+        },
+        "nextchap": "64b15ba40631ac0494346946",
+        "prevchap": "64b15b9c0631ac0494346922",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

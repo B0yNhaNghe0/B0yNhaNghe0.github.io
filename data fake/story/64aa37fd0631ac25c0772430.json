@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Trở Lại Với Sức Mạnh Của Hệ Thống",
+            "StoryOtherName": null,
+            "StoryImage": "64aa37fd0631ac25c0772430.jpg",
+            "StoryDescription": "manhuavn.top - quan sơn trở lại quá khứ, thức tỉnh có thể biến mọi thứ thành dị năng của hệ thống trò chơi. sau khi đánh qua phó bản lại càng có đủ loại trao đổi thần kỳ.bởi vậy, quan sơn đã sử dụng dị năng đặc biệt của mình để chiến đấu chống lại khủng bố và hắc ám. giữa kinh hoàng và vặn vẹo, cậu đã bù đắp được sự tiếc nuối khi mất đi gia đình, thậm chí còn phát hiện ra thân phận cổ thần tiềm tàng của bạn gái thanh mai trúc mã.cuối cùng, quan sơn leo lên đến đỉnh cao và trở thành nhất đại tân thần.",
+            "StoryUpdateTime": "2023-12-12T09:24:31.8471247Z",
+            "StoryUpdateTimeTick": 638244990535047825,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "chapter 1",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Lịch Sử",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d63f10631b61a30ca33f5",
+                    "MongoId": "649d63f10631b61a30ca33f5"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61870631b61a30ca3238",
+                    "MongoId": "649d61870631b61a30ca3238"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trinh Thám",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d631c0631b61a30ca3399",
+                    "MongoId": "649d631c0631b61a30ca3399"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "tro-lai-voi-suc-manh-cua-he-thong-chapter-1",
+            "Keyword": "trở lại với sức mạnh của hệ thống tro lai voi suc manh cua he thong tro lai voi suc manh cua he thong tro lai voi suc manh cua he thong",
+            "StoryView": 11,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/tro-lai-voi-suc-manh-cua-he-thong-chapter-0.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "tro-lai-voi-suc-manh-cua-he-thong",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "chapter 1",
+                    "ChapterNameK": "tro-lai-voi-suc-manh-cua-he-thong-chapter-1",
+                    "ChapterID": "64af748d0631ac1978d4a3d8",
+                    "datepost": "2023-07-13T10:50:37.276Z"
+                },
+                {
+                    "ChapterName": "chapter 2",
+                    "ChapterNameK": "tro-lai-voi-suc-manh-cua-he-thong-chapter-2",
+                    "ChapterID": "64af74960631ac1978d4a3ef",
+                    "datepost": "2023-07-13T10:50:46.417Z"
+                },
+                {
+                    "ChapterName": "chapter 3",
+                    "ChapterNameK": "tro-lai-voi-suc-manh-cua-he-thong-chapter-3",
+                    "ChapterID": "64af749b0631ac1978d4a3fa",
+                    "datepost": "2023-07-13T10:50:51.355Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 4,
+            "Id": "64aa37fd0631ac25c0772430",
+            "MongoId": "64aa37fd0631ac25c0772430"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64af74800631ac1978d4a3b1",
+            "Name": "chapter 0",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

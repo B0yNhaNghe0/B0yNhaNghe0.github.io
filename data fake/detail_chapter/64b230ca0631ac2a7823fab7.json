@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 1,
+            "StoryID": "64a934ee0631ac36f4d6e847",
+            "StoryName": "Đại Sư Huynh Không Có Gì Nổi Bật",
+            "ChapTitle": "chapter 0",
+            "ChapContent": "<img src='https://i.ibb.co/YRMvFNg/0-kq3qhj00vanybcm7ndyh17.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/3BY6rK1/a0-kq3qhjl0d785rwigv3m5.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/ZKFm8nW/a2-kq3qhgc7s7r6r0laoav.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/F0QK9fv/a3-kq3qhg6jy9g2nbcl.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/bKnVTxx/a4-kq3qhh5h0o2au5hq1ug86.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/6mw42YC/a5-kq3qhgz55940nmj0a5dd5w.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/TKtpkbK/a6-kq3qhg02wq9wvb5a7.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/L1R8Y3V/a7-kq3qhjl2d6ut0pz.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 0 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "dai-su-huynh-khong-co-gi-noi-bat-chapter-0",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-07-15T12:38:18.9935335Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-13T17:39:24.334Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b230ca0631ac2a7823fab7",
+            "MongoId": "64b230ca0631ac2a7823fab7"
+        },
+        "nextchap": "64b230d20631ac2a7823facc",
+        "prevchap": "-1",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

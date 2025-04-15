@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 2,
+            "StoryID": "64a934ee0631ac36f4d6e847",
+            "StoryName": "Đại Sư Huynh Không Có Gì Nổi Bật",
+            "ChapTitle": "chapter 1",
+            "ChapContent": "<img src='https://i.ibb.co/YRMvFNg/0-kq3qhj00vanybcm7ndyh17.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/B2ND09L/a0-prv4z95y1u8ov.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/prk9G3m/a1-prv4zf506m6k7.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/M27ybGR/a2-prv4z4zd12i74p5.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/fDPNKWL/a3-prv4z85jd4v00.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/zZD00Lf/a4-prv4z67pdv18g5s.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/cwmLLzN/a5-prv4z9dvkmvgnom3it.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/d4nCWW7/a6-prv4z8g1i8j0a5dd5w.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/T0k3Q4t/a7-prv4zd2lk00acsp.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/pj61ydj/a8-prv4z986mbjmq0ngv.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/HFtB0N3/a9-prv4zl69upxyu.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/pbCS8sY/a10-prv4zyeoivp07l8tmdo.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/SnX83RV/a11-prv4z9llzz5hq1ug86.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/Hd7J6Tp/a12-prv4z9p4xjmi74p5.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/6wjrXBh/a13-prv4z89tpywam6k7.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/RcNQwZJ/a14-prv4z9obdlf587rl.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/><img src='https://i.ibb.co/1QpgL1c/a15-prv4zo1q8s8rb7x0k.jpg' alt='Đại Sư Huynh Không Có Gì Nổi Bật chapter 1 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "dai-su-huynh-khong-co-gi-noi-bat-chapter-1",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-15T12:38:26.1813799Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-13T17:39:34.429Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b230d20631ac2a7823facc",
+            "MongoId": "64b230d20631ac2a7823facc"
+        },
+        "nextchap": "64b230d70631ac2a7823fada",
+        "prevchap": "64b230ca0631ac2a7823fab7",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

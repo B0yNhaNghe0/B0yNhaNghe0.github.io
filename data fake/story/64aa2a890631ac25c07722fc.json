@@ -1,0 +1,133 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Nhà Sưu Tập Dị Thường",
+            "StoryOtherName": null,
+            "StoryImage": "64aa2a890631ac25c07722fc.jpg",
+            "StoryDescription": "lí phàm du hành đến một thế giới xa lạ, ở đây có những dị thường chi vật tồn tại, và với tư cách là một thực tập sinh trong cơ quan ứng phó di thường, vào ngày đầu tiên đi làm, tôi đột nhiên phát hiện ra rằng mình là nhân vật phản diện thứ hai trên thế giới này——nhà sưu tập.\"ta ăn cơm chờ nghỉ hưu đi, được không?\",\"nhà sưu tập đại nhân, tất cả các anh em đều ủng hộ ngài với tư cách là hội trưởng, chúng ta quên nó đi được không?\"",
+            "StoryUpdateTime": "2023-12-13T08:45:00.7083825Z",
+            "StoryUpdateTimeTick": 638244956090518336,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 5",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Chuyển Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61c00631b61a30ca324d",
+                    "MongoId": "649d61c00631b61a30ca324d"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f820631b41a30cffe9c",
+                    "MongoId": "649d5f820631b41a30cffe9c"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Phép Thuật",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d68e40631b81a309a9e3d",
+                    "MongoId": "649d68e40631b81a309a9e3d"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Truyện Tranh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d64310631b61a30ca3459",
+                    "MongoId": "649d64310631b61a30ca3459"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Đời Thường",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d62810631b61a30ca332d",
+                    "MongoId": "649d62810631b61a30ca332d"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "nha-suu-tap-di-thuong-chapter-5",
+            "Keyword": "nhà sưu tập dị thường nha suu tap di thuong nha suu tap di thuong nha suu tap di thuong",
+            "StoryView": 3,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/nha-suu-tap-di-thuong-chapter-0.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "nha-suu-tap-di-thuong",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "nha-suu-tap-di-thuong-chapter-3",
+                    "ChapterID": "64b012910631ac049433c9fb",
+                    "datepost": "2023-07-13T22:04:49.946Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "nha-suu-tap-di-thuong-chapter-4",
+                    "ChapterID": "64b012950631ac049433ca07",
+                    "datepost": "2023-07-13T22:04:53.368Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "nha-suu-tap-di-thuong-chapter-5",
+                    "ChapterID": "64b012980631ac049433ca13",
+                    "datepost": "2023-07-13T22:04:56.774Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 6,
+            "Id": "64aa2a890631ac25c07722fc",
+            "MongoId": "64aa2a890631ac25c07722fc"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b0126d0631ac049433c8b9",
+            "Name": "Chapter 0",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 234,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "Chapter 236",
+            "ChapContent": "",
+            "ChapNameK": "di-the-ta-quan-chapter-236",
+            "ChapStatus": 6,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-236.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2025-07-14T21:56:19.1930438Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "https://www.youtube.com/watch?v=dNgXS6qklgk",
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b162130631ac049434819b",
+            "MongoId": "64b162130631ac049434819b"
+        },
+        "nextchap": "64b162160631ac04943481a8",
+        "prevchap": "64b1620f0631ac0494348191",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

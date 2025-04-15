@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "MenuID": 0,
+            "StoryName": "Trở Về 1983 Làm Phú Hào",
+            "StoryOtherName": null,
+            "StoryImage": "64aa2a720631ac25c07722fa.jpg",
+            "StoryDescription": "manhuavn.top - tổng tài chu vu phong ngoài ý muốn trùng sinh đến năm 1983, ngắm nhìn kiều thê điềm đạm đáng yêu , mất đi phụ mẫu đệ muội, chu vu phong quyết định ở đây sáng tạo thời đại thuộc về hắn!",
+            "StoryUpdateTime": "2023-12-15T03:12:00.5027014Z",
+            "StoryUpdateTimeTick": 638244955866909163,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 0,
+            "StoryTitleLastChap": "Chapter 1",
+            "StoryTheLoai": [
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Chuyển Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6d800631b81a309a9f6e",
+                    "MongoId": "649d6d800631b81a309a9f6e"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Trung Quốc",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d5f780631b41a30cffe95",
+                    "MongoId": "649d5f780631b41a30cffe95"
+                },
+                {
+                    "DisplayInMain": 1,
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d61ec0631b61a30ca325a",
+                    "MongoId": "649d61ec0631b61a30ca325a"
+                },
+                {
+                    "DisplayInMain": 0,
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "Truyen": [],
+                    "Id": "649d6bbc0631b81a309a9f20",
+                    "MongoId": "649d6bbc0631b81a309a9f20"
+                }
+            ],
+            "StoryAuthor": [],
+            "StoryNhomDich": [],
+            "StarRate": 5.0,
+            "ListUserRate": [],
+            "StoryMark": 5.0,
+            "NameKLastChap": "tro-ve-1983-lam-phu-hao-chapter-1",
+            "Keyword": "trở về 1983 làm phú hào tro ve 1983 lam phu hao tro ve 1983 lam phu hao tro ve 1983 lam phu hao",
+            "StoryView": 473,
+            "NumberUserFollow": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "StoryViewInDay": 0,
+            "StoryViewInWeek": 0,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "Tags": "https://manhuavn.top/doc-truyen/tro-ve-1983-lam-phu-hao-chapter-1.htmlXX_CHAPDAUTIEN_XX",
+            "StoryNameK": "tro-ve-1983-lam-phu-hao",
+            "IsCraw": true,
+            "Last3Chap": [
+                {
+                    "ChapterName": "Chapter 3",
+                    "ChapterNameK": "tro-ve-1983-lam-phu-hao-chapter-3",
+                    "ChapterID": "64b0127c0631ac049433c8e8",
+                    "datepost": "2023-07-13T22:04:28.586Z"
+                },
+                {
+                    "ChapterName": "Chapter 4",
+                    "ChapterNameK": "tro-ve-1983-lam-phu-hao-chapter-4",
+                    "ChapterID": "64b012850631ac049433c96a",
+                    "datepost": "2023-07-13T22:04:37.133Z"
+                },
+                {
+                    "ChapterName": "Chapter 5",
+                    "ChapterNameK": "tro-ve-1983-lam-phu-hao-chapter-5",
+                    "ChapterID": "64b012890631ac049433c9e0",
+                    "datepost": "2023-07-13T22:04:41.54Z"
+                }
+            ],
+            "IsShowInApp": true,
+            "GioiTinhTruyen": 0,
+            "sochuong": 5,
+            "Id": "64aa2a720631ac25c07722fa",
+            "MongoId": "64aa2a720631ac25c07722fa"
+        },
+        "urlimage": "https://admin.truyen5sao.com/Pictures/Truyen/Large",
+        "isTheoDoi": 1,
+        "review": [],
+        "urluser": "https://admin.truyen5sao.com/Pictures/User/",
+        "firstchap": {
+            "Id": "64b0126c0631ac049433c8b6",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [],
+        "numberReview": 0,
+        "topcomment": []
+    }
+}

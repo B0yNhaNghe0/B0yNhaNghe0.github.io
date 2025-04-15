@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 6,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "Nguyên Tôn",
+            "ChapTitle": "chapter 6",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/0_mau71vsv64jc6bvj020tbzxmgo.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/1_mau71vsv64gr3ncugh5m.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/2_mau71vsv64g9jszdtx7jn5sucg.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/3_mau71vsv64im74xhwwhg9cnyq.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/4_mau71vsv64hygwdf6ut0pz.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/6_mau71vsv64ixko899a3seabky.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/7_mau71vsv64ji1qupxyu.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/8_mau71vsv64jwq2v1gjc5hq1ug86.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/9_mau71vsv64j66w9gzhif.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/10_mau71vsv64j1wvgsv2i74p5.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/11_mau71vsv64jcfaexzccaoh.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/12_mau71vsv64j2a5zsyne05sui.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/13_mau71vsv64go5p5x83dbhm0g03.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/14_mau71vsv64hzsiotnvpftmaa.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/15_mau71vsv64j26eaygxn4ns.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/16_mau71vsv64imaptg709id.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d440631af32507a2a96/17_mau71vsv64gp92fsraaq90s.jpg' alt='Nguyên Tôn chapter 6 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-6",
+            "ChapStatus": 0,
+            "ChapTags": "webadmin",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-06-28T23:29:41.2272968Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "",
+            "ChapContentVideoTimeActive": "2023-12-12T14:06:38.54Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c5ff50631ac1114ccf3ac",
+            "MongoId": "649c5ff50631ac1114ccf3ac"
+        },
+        "nextchap": "649c5ff80631ac1114ccf3ad",
+        "prevchap": "649c5ff20631ac1114ccf3ab",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

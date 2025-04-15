@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 3,
+            "StoryID": "64aa1e790631ac25c07721e8",
+            "StoryName": "Ta Làm Kiêu Hùng Tại Dị Giới",
+            "ChapTitle": "Chapter 3",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh0_8pijhfciogmvapvigrf1u.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh1_8pijherkkteaj0a5dd5w.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh2_8pijhdjbiqu4v.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh3_8pijhcgm44n18fmmaq.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh4_8pijhfpxhsdypakft0y.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh5_8pijhd8e4dz4ofay1z.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh6_8pijhdz3dgwce2dsuz.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh7_8pijhewvpddw73duriy4.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh8_8pijhdxpv4e1rw7kujul.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh9_8pijhc7vh8ne05sui.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/><img src='https://img02.vnmanga.top/bbdata/8pijhdv8ezikdsuz/tsh10_8pijhcuxfm8ej3sn.jpg' alt='Ta Làm Kiêu Hùng Tại Dị Giới Chapter 3 - Hamtruyen.vn'/><br/>",
+            "ChapNameK": "ta-lam-kieu-hung-tai-di-gioi-chapter-3",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/ta-lam-kieu-hung-tai-di-gioi-chapter-3.html",
+            "ChapPCount": 8,
+            "ChapPostDate": "2023-07-15T10:08:24.6328931Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b20da80631ac2a7823ca1a",
+            "MongoId": "64b20da80631ac2a7823ca1a"
+        },
+        "nextchap": "64b20dac0631ac2a7823ca25",
+        "prevchap": "64b20da40631ac2a7823ca0a",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

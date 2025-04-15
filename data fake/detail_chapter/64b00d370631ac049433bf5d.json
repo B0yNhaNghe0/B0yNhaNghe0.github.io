@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 8,
+            "StoryID": "64aa2d810631ac25c0772340",
+            "StoryName": "Ta Có Cung Hoàng Kim Tại Tận Thế",
+            "ChapTitle": "Chapter 8",
+            "ChapContent": "",
+            "ChapNameK": "ta-co-cung-hoang-kim-tai-tan-the-chapter-8",
+            "ChapStatus": 6,
+            "ChapTags": "webadmin",
+            "ChapPCount": 0,
+            "ChapPostDate": "2025-07-13T21:41:59.9870201Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "watermark",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": "https://www.youtube.com/watch?v=dNgXS6qklgk",
+            "ChapContentVideoTimeActive": "2023-12-13T10:14:32.396Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b00d370631ac049433bf5d",
+            "MongoId": "64b00d370631ac049433bf5d"
+        },
+        "nextchap": "-1",
+        "prevchap": "64b00d340631ac049433bee9",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

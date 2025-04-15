@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 19,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "nguyên tôn",
+            "ChapTitle": "chapter 19",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/0_mau71vsv64h6nsojn5sucg.jpg' title='nguyên tôn chapter 19 - trang 1'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/1_mau71vsv64gl9yqt59kgjlzdx.jpg' title='nguyên tôn chapter 19 - trang 2'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/2_mau71vsv64gq9nkkokisym8.jpg' title='nguyên tôn chapter 19 - trang 3'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/3_mau71vsv64gj2fyanuvj9s.jpg' title='nguyên tôn chapter 19 - trang 4'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/4_mau71vsv64h1w3gnipf7wsy.jpg' title='nguyên tôn chapter 19 - trang 5'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/5_mau71vsv64g7dez8sp18g5s.jpg' title='nguyên tôn chapter 19 - trang 6'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/6_mau71vsv64huldclwvkokisym8.jpg' title='nguyên tôn chapter 19 - trang 7'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/7_mau71vsv64i4xl08sg0tbzxmgo.jpg' title='nguyên tôn chapter 19 - trang 8'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/8_mau71vsv64j3sk5d.jpg' title='nguyên tôn chapter 19 - trang 9'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/9_mau71vsv64ijaspskhy7wck.jpg' title='nguyên tôn chapter 19 - trang 10'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/10_mau71vsv64gddx5r14sjtxm6.jpg' title='nguyên tôn chapter 19 - trang 11'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/11_mau71vsv64jdlprvu7uvj9s.jpg' title='nguyên tôn chapter 19 - trang 12'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/12_mau71vsv64j5iq2jjbxpakft0y.jpg' title='nguyên tôn chapter 19 - trang 13'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/13_mau71vsv64g7rcjt4wau.jpg' title='nguyên tôn chapter 19 - trang 14'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/14_mau71vsv64ighr95exlhy7wck.jpg' title='nguyên tôn chapter 19 - trang 15'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/15_mau71vsv64hylxl42j0a5dd5w.jpg' title='nguyên tôn chapter 19 - trang 16'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072db50631af32507a2ac2/16_mau71vsv64hn73mbf709id.jpg' title='nguyên tôn chapter 19 - trang 17'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-19",
+            "ChapStatus": 0,
+            "ChapTags": "http://craw.hamtruyen.info/doc-truyen/nguyen-ton-chapter-19.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-06-28T23:30:22.6076786Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c601e0631ac1114ccf3b9",
+            "MongoId": "649c601e0631ac1114ccf3b9"
+        },
+        "nextchap": "649c60210631ac1114ccf3ba",
+        "prevchap": "649c601b0631ac1114ccf3b8",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

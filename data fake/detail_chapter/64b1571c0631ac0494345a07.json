@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 3,
+            "StoryID": "64a927980631ac36f4d6e7d1",
+            "StoryName": "Đạo Quân",
+            "ChapTitle": "chapter 3",
+            "ChapContent": "<img src='https://1.bp.blogspot.com/-ALwlPE5fq_s/YDNeapxxKEI/AAAAAAAB1bM/p2otCxrT-BQ-C-YIhJU_hkrwmnWHVcWgQCLcBGAsYHQ/s0/3_01.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-BpNNWXdl9kU/YDNealD421I/AAAAAAAB1bE/sykEM1xv26sMX5Xn19cqMZ4yg9w5JPCvgCLcBGAsYHQ/s0/3_02.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-vvMU9lR4QOk/YDNeatn9unI/AAAAAAAB1bI/oDE6Z1NW4UMSddoDbYzmzlOCTGym4PU8gCLcBGAsYHQ/s0/3_03.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-2OHHVTC0Ntw/YDNebRhDWuI/AAAAAAAB1bQ/c0oy9i6p8woF3LdPVczhwIwxIMRnie3QgCLcBGAsYHQ/s0/3_04.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-wgGN63k8H4c/YDNebvNIR_I/AAAAAAAB1bU/fwCFqSe7YTAeeX08JxY62dcqaBd244ltwCLcBGAsYHQ/s0/3_05.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-co33ha5YQVI/YDNeblYH7WI/AAAAAAAB1bY/ZV-CMS_hpZQdDx-PgoztbE3cHXVJU4vAwCLcBGAsYHQ/s0/3_06.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-TB5GfTwCwmY/YDNeb7GFQUI/AAAAAAAB1bc/UWLwsxxtbxoE-aRIkmODfDD4JDz0tZFTQCLcBGAsYHQ/s0/3_07.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/><img src='https://1.bp.blogspot.com/-vHDNvti-KBs/YDNecH8M-jI/AAAAAAAB1bg/XWQ_M3NRYxkM8LR0spz4nb94Vi-nQSFMACLcBGAsYHQ/s0/3_08.jpg?imgmax=0' alt='Đạo Quân chapter 3 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "dao-quan-chapter-3",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/dao-quan-chapter-3.html",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-14T21:09:32.1931636Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b1571c0631ac0494345a07",
+            "MongoId": "64b1571c0631ac0494345a07"
+        },
+        "nextchap": "64b157240631ac0494345a2b",
+        "prevchap": "64b157120631ac04943459e3",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

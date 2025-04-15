@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 123,
+            "StoryID": "64a9328d0631ac36f4d6e80f",
+            "StoryName": "Dị Thế Tà Quân",
+            "ChapTitle": "chapter 123",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/1_8dl2vl1f7oxsax81.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/2_8dl2vf5ruvz9ds3nb.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/3_8dl2v0rx6tycsbk4c.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/4_8dl2v0jm3h8fmmaq.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/5_8dl2vxiso03hw64trs.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/6_8dl2vrljiefs9t2f55q5.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/7_8dl2vlf1hukgs.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/8_8dl2v3ypqygxn4ns.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/9_8dl2v4gtxky0kogyh.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/10_8dl2vo51e2omqaet.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/11_8dl2vv2hmtiaigxn4ns.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/12_8dl2voyo3tdsuz.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/13_8dl2v014jvr3duriy4.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/><img src='https://img02.vnmanga.top/bbdata/5f88116d0631ac11d44a8e7a/14_8dl2vnkpdq414wau.jpg' alt='Dị Thế Tà Quân chapter 123 - Upload bởi truyensieuhay.com'/><br/>",
+            "ChapNameK": "di-the-ta-quan-chapter-123",
+            "ChapStatus": 0,
+            "ChapTags": "https://manhuavn.top/doc-truyen/di-the-ta-quan-chapter-123.html",
+            "ChapPCount": 2,
+            "ChapPostDate": "2023-07-14T21:42:42.0049869Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "64b15ee20631ac04943475d9",
+            "MongoId": "64b15ee20631ac04943475d9"
+        },
+        "nextchap": "64b15ee60631ac04943475e8",
+        "prevchap": "64b15ede0631ac04943475cd",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}

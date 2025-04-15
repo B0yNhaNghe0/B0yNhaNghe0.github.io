@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "currentchap": {
+            "ChapNumber": 7,
+            "StoryID": "649ab3ac0631b32cc01b8724",
+            "StoryName": "nguyên tôn",
+            "ChapTitle": "chapter 7",
+            "ChapContent": "<img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/0_mau71vsv64hj7xq8afycu3.jpg' title='nguyên tôn chapter 7 - trang 1'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/1_mau71vsv64iahhy7wck.jpg' title='nguyên tôn chapter 7 - trang 2'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/2_mau71vsv64gkx0yovqidvs.jpg' title='nguyên tôn chapter 7 - trang 3'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/3_mau71vsv64hn91hp15ywul.jpg' title='nguyên tôn chapter 7 - trang 4'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/4_mau71vsv64g9giycxwui3.jpg' title='nguyên tôn chapter 7 - trang 5'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/5_mau71vsv64gdxagvyz709id.jpg' title='nguyên tôn chapter 7 - trang 6'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/6_mau71vsv64g4alvsstg2nbcl.jpg' title='nguyên tôn chapter 7 - trang 7'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/7_mau71vsv64ihpcad5w0tbzxmgo.jpg' title='nguyên tôn chapter 7 - trang 8'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/8_mau71vsv64hknc4b97zrjn5sucg.jpg' title='nguyên tôn chapter 7 - trang 9'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/9_mau71vsv64gvjn4h8o5g1.jpg' title='nguyên tôn chapter 7 - trang 10'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/10_mau71vsv64ghk1ci7oe9fed3cu.jpg' title='nguyên tôn chapter 7 - trang 11'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/11_mau71vsv64gq49115ywul.jpg' title='nguyên tôn chapter 7 - trang 12'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/12_mau71vsv64ispz3bfxqee06.jpg' title='nguyên tôn chapter 7 - trang 13'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/13_mau71vsv64j9lxab3qxzozju.jpg' title='nguyên tôn chapter 7 - trang 14'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/14_mau71vsv64gjrpqrndyh17.jpg' title='nguyên tôn chapter 7 - trang 15'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/15_mau71vsv64iaa4l1mg9cnyq.jpg' title='nguyên tôn chapter 7 - trang 16'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/16_mau71vsv64jn1ihmhkj1bhm0g03.jpg' title='nguyên tôn chapter 7 - trang 17'/><br/><img src='https://img02.vnmanga.top/bbdata/5d072d540631af32507a2a98/17_mau71vsv64h8x15980d14wau.jpg' title='nguyên tôn chapter 7 - trang 18'/><br/>",
+            "ChapNameK": "nguyen-ton-chapter-7",
+            "ChapStatus": 0,
+            "ChapTags": "http://craw.hamtruyen.info/doc-truyen/nguyen-ton-chapter-7.html",
+            "ChapPCount": 1,
+            "ChapPostDate": "2023-06-28T23:29:44.4121166Z",
+            "ChapLinkDown": "",
+            "ChapThongBao": "",
+            "ChapUserPost": "-1",
+            "ChapContentVideo": null,
+            "ChapContentVideoTimeActive": "0001-01-01T00:00:00Z",
+            "ChapPrice": 2,
+            "TotalBuy": 0,
+            "TotalThanks": 0,
+            "ChapterContent2": null,
+            "ChapterBuyByCongHien": 0,
+            "Id": "649c5ff80631ac1114ccf3ad",
+            "MongoId": "649c5ff80631ac1114ccf3ad"
+        },
+        "nextchap": "649c5ffb0631ac1114ccf3ae",
+        "prevchap": "649c5ff50631ac1114ccf3ac",
+        "numberlike": 0,
+        "isthanks": false,
+        "hasbuy": false,
+        "themkn": false
+    }
+}
